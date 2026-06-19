@@ -1,0 +1,203 @@
+Links uteis - haCARthon
+Atualizado em: 2026-06-05
+Criterio: links unicos, priorizando fontes oficiais, bases publicas, referencias dos editais e material util para MVP/pitch.
+
+=== Hackathon, documentos e inscricao ===
+
+- Pagina oficial do desafio na Plataforma Desafios
+  https://appdesafios.enap.gov.br/desafio/view/hacarthon-maratona-de-solucoes-para-o-car-(cadastro-ambiental-rural)
+  Uso: pagina central do haCARthon, com resumo, documentos, inscricao, cronograma e FAQ.
+
+- Formulario de inscricao
+  https://hacarthon.paniclobster.com/
+  Uso: entrada operacional para inscricao/formacao no hackathon.
+
+- Edital do haCARthon
+  https://repositorio.enap.gov.br/bitstream/1/9909/1/Edital%20haCARthon%20-%20Assinado%20-%20SEI_0993344_Edital_158.pdf
+  Uso: regras formais, elegibilidade, premiacao, propriedade intelectual e desclassificacao.
+
+- Guia do Participante
+  https://repositorio.enap.gov.br/bitstream/1/9909/3/haCARthon%20-%20Guia%20do%20Participante.pdf
+  Uso: entregas obrigatorias, lives, mentorias, prototipo, pitch e criterios de avaliacao.
+
+- Briefing dos Desafios
+  https://repositorio.enap.gov.br/bitstream/1/9909/2/haCARthon%20-%20Briefing%20dos%20desafios.pdf
+  Uso: documento principal para escolher dor, persona e proposta de solucao.
+
+- Cronograma do Edital
+  https://repositorio.enap.gov.br/bitstream/1/9909/4/Cronograma%20Edital%20haCARthon%20-%20enviado%20%c3%a0%20Presid%c3%aancia.pdf
+  Uso: prazos de inscricao, desenvolvimento, submissao, julgamento e resultado.
+
+=== CAR/SICAR oficial ===
+
+- Portal oficial do CAR/SICAR
+  https://www.car.gov.br/
+  Uso: entender o sistema real, modulo de cadastro, envio .CAR, consulta e retificacao.
+
+- Servico gov.br: inscrever imovel rural no CAR
+  https://www.gov.br/pt-br/servicos/inscrever-imovel-rural-no-cadastro-ambiental-rural-car
+  Uso: fluxo oficial explicado para cidadaos; bom para mapear jornada do usuario.
+
+- Consulta Publica do CAR
+  https://consulta.car.gov.br/
+  Uso: consultar dados publicos do CAR, painel, mapa e downloads.
+
+- Sobre a Consulta Publica do CAR
+  https://consulta.car.gov.br/about
+  Uso: explica finalidade, dados disponiveis, downloads, dicionario e geosservicos.
+
+- Manual do Usuario do Modulo de Cadastro do CAR
+  https://www.car.gov.br/public/Manual.pdf
+  Uso: entender o passo a passo oficial e identificar pontos de confusao para o produtor.
+
+- Central para consultar situacao do CAR
+  https://www.car.gov.br/#/consultar
+  Uso: acompanhar declaracao, demonstrativo e situacao do cadastro.
+
+- Contatos dos orgaos competentes por UF
+  https://www.car.gov.br/#/contatos
+  Uso: entender a dependencia estadual no atendimento e na regularizacao.
+
+=== Legislacao e explicacao do dominio ===
+
+- Lei 12.651/2012 - Codigo Florestal, texto compilado
+  https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm
+  Uso: base legal principal para APP, Reserva Legal, CAR, PRA e regularizacao ambiental.
+
+- Decreto 7.830/2012 - SICAR, CAR e PRA
+  https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7830.htm
+  Uso: define SICAR, CAR e regras gerais de regularizacao.
+
+- Decreto 8.235/2014 - Programas de Regularizacao Ambiental
+  https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8235.htm
+  Uso: complementa regras do PRA e Mais Ambiente Brasil.
+
+- Embrapa - Codigo Florestal
+  https://www.embrapa.br/codigo-florestal/
+  Uso: explicacao tecnica mais acessivel sobre APP, Reserva Legal e recuperacao.
+
+- Embrapa - perguntas e respostas sobre Codigo Florestal
+  https://www.embrapa.br/codigo-florestal/entenda-o-codigo-florestal/perguntas-e-respostas
+  Uso: boa base para transformar duvidas juridicas em linguagem simples.
+
+- Linguagem Simples - Governo Federal
+  https://www.gov.br/servidor/pt-br/assuntos/laboragov/curadoria-tematica/linguagem-simples
+  Uso: referencia para o Desafio 3, comunicacao clara e inclusiva.
+
+- Lei 15.263/2025 - Politica Nacional de Linguagem Simples
+  https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2025/Lei/L15263.htm
+  Uso: reforcar no pitch que a solucao segue diretriz atual de comunicacao publica clara.
+
+- Manual de linguagem simples
+  https://www.gov.br/servicoscompartilhados/pt-br/acesso-a-informacao/acoes-e-programas/governanca/arquivos_figuras/linguagem_simples_roedel.pdf
+  Uso: guia pratico para escrever textos que o produtor entenda.
+
+=== Dados, paineis e diagnostico do problema ===
+
+- Painel da Regularizacao Ambiental - SFB
+  https://www.gov.br/florestal/pt-br/assuntos/regularizacao-ambiental/painel-regularizacao
+  Uso: indicadores consolidados de regularizacao, PRA, passivos, APP e Reserva Legal.
+
+- Dataset do Painel da Regularizacao Ambiental Rural
+  https://dados.florestal.gov.br/id/dataset/painel-da-regularizacao-ambiental-rural
+  Uso: metadados, dicionario e recursos do painel em portal de dados abertos.
+
+- SNIF - Regularizacao Ambiental / CAR
+  https://snif.florestal.gov.br/pt-br/cadastro-ambiental-rural
+  Uso: informacoes consolidadas do SFB sobre CAR e regularizacao ambiental.
+
+- MGI - nova plataforma de consulta a dados publicos do CAR
+  https://www.gov.br/gestao/pt-br/assuntos/noticias/2026/maio/mgi-lanca-nova-plataforma-de-consulta-a-dados-publicos-do-car
+  Uso: contexto atual de modernizacao, transparencia e BI dos dados do CAR.
+
+- MGI - CAR como Bem Publico Digital
+  https://www.gov.br/governodigitalfale-conosco/pt-br/noticias/na-cop30-mgi-lanca-o-car-como-primeiro-bem-publico-digital-do-governo-brasileiro
+  Uso: argumento de alinhamento com tecnologia aberta, interoperavel e reutilizavel.
+
+- Digital Public Goods Standard
+  https://www.digitalpublicgoods.net/standard
+  Uso: checklist para posicionar a solucao como aberta, segura, reutilizavel e de interesse publico.
+
+- CPI/PUC-Rio - Radiografia do CAR e PRA nos Estados, edicao 2025
+  https://www.climatepolicyinitiative.org/pt-br/publication/onde-estamos-na-implementacao-do-codigo-florestal-radiografia-do-car-e-do-pra-nos-estados-brasileiros-edicao-2025/
+  Uso: entender gargalos reais de implementacao do Codigo Florestal nos estados.
+
+- ENAP - Cadastro Ambiental Rural: analise exploratoria de indicadores ambientais
+  https://repositorio.enap.gov.br/bitstream/1/7416/1/2022.06.10%20-%20Cadastro%20Ambiental%20Rural%20-%20an%C3%A1lise%20de%20indicadores%20ambientais.pdf
+  Uso: exemplos de indicadores e cruzamento CAR + PRODES.
+
+- Relatorio final de avaliacao Ex Post do CAR
+  https://www.gov.br/agricultura/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/publicacoes/RelatorioCARvol1.pdf
+  Uso: diagnostico de governanca, transparencia, dados publicos e problemas operacionais.
+
+=== Bases geoespaciais e mapas ===
+
+- GeoServer SICAR WFS
+  https://geoserver.car.gov.br/geoserver/sicar/wfs
+  Uso: testar acesso a camadas geoespaciais do SICAR em ferramentas SIG.
+
+- Base publica de downloads do CAR por municipio
+  https://www.car.gov.br/publico/municipios/downloads
+  Uso: baixar shapefiles publicos do CAR quando necessario.
+
+- TerraBrasilis - INPE
+  https://terrabrasilis.dpi.inpe.br/
+  Uso: PRODES, DETER e dados oficiais de monitoramento de vegetacao nativa.
+
+- TerraBrasilis - acesso aos dados
+  https://terrabrasilis.dpi.inpe.br/acesso-aos-dados/
+  Uso: downloads, metadados e servicos web.
+
+- TerraBrasilis - FAQ
+  https://terrabrasilis.dpi.inpe.br/faq/
+  Uso: entender diferenca entre PRODES/DETER e como acessar WFS.
+
+- MapBiomas - colecoes
+  https://brasil.mapbiomas.org/colecoes-mapbiomas/
+  Uso: cobertura e uso da terra, desmatamento, agua, fogo e assets do Google Earth Engine.
+
+- MapBiomas - estatisticas
+  https://brasil.mapbiomas.org/estatisticas/
+  Uso: dados tabulares por bioma, estado e municipio; bom para prototipo sem processar raster pesado.
+
+- IBGE - API de malhas geograficas
+  https://servicodados.ibge.gov.br/api/docs/malhas?versao=3
+  Uso: obter limites oficiais simplificados em GeoJSON/TopoJSON/SVG.
+
+- IBGE - API de localidades
+  https://servicodados.ibge.gov.br/api/docs/localidades
+  Uso: lista oficial de estados, municipios e codigos IBGE para filtros.
+
+- INCRA - Acervo Fundiario
+  https://acervofundiario.incra.gov.br/
+  Uso: dados fundiarios e geoespaciais produzidos pelo INCRA.
+
+- SIGEF - manual/documentacao
+  https://sigef.incra.gov.br/documentos/manual/
+  Uso: entender certificacao e limites georreferenciados de imoveis rurais.
+
+=== UX, prototipo e desenvolvimento ===
+
+- Design System GOV.BR
+  https://www.gov.br/ds/home
+  Uso: referencia visual e de acessibilidade para interface com cara de servico publico.
+
+- Sobre o Design System GOV.BR
+  https://www.gov.br/ds/introducao/sobre
+  Uso: principios de usabilidade, acessibilidade e padrao de governo digital.
+
+- Leaflet
+  https://leafletjs.com/reference
+  Uso: mapa web simples com GeoJSON; bom para MVP rapido.
+
+- Turf.js
+  https://turfjs.org/
+  Uso: operacoes geoespaciais simples no navegador ou Node.js.
+
+- MapLibre GL JS
+  https://maplibre.org/projects/gl-js/
+  Uso: mapas web mais avancados, vetoriais e open source.
+
+- QGIS - documentacao oficial
+  https://www.qgis.org/documentation/
+  Uso: abrir shapefiles, validar camadas, converter dados e investigar geometrias.

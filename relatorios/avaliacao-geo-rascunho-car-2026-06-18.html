@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GeoRascunho CAR: parecer sincero</title>
+  <style>
+    :root {
+      --ink: #17352a;
+      --muted: #587066;
+      --paper: #fbfcf9;
+      --surface: #ffffff;
+      --green: #176b45;
+      --green-soft: #e8f4ed;
+      --amber: #9a5a09;
+      --amber-soft: #fff4db;
+      --red: #9b2c2c;
+      --red-soft: #fff0ef;
+      --line: #d8e2dc;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--paper); color: var(--ink); font-family: Arial, Helvetica, sans-serif; }
+    main { max-width: 980px; margin: 0 auto; padding: 44px 22px 72px; }
+    header, section { margin-bottom: 34px; }
+    h1, h2, h3 { line-height: 1.18; }
+    h1 { margin: 0 0 10px; font-size: clamp(2rem, 5vw, 3.2rem); letter-spacing: -0.035em; }
+    h2 { margin: 0 0 14px; font-size: 1.55rem; }
+    h3 { margin: 0 0 8px; font-size: 1.05rem; }
+    p, li { line-height: 1.62; }
+    a { color: var(--green); text-underline-offset: 3px; }
+    .eyebrow { color: var(--green); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: .78rem; }
+    .subtitle { color: var(--muted); max-width: 760px; font-size: 1.04rem; }
+    .executive-summary-box { padding: 22px 24px; background: linear-gradient(180deg, #edf7f1 0%, #e5f1ea 100%); border: 1px solid #c8ded1; border-radius: 18px; box-shadow: 0 14px 36px rgba(23, 53, 42, .07); }
+    .executive-summary-box ul { margin: 0; padding-left: 22px; }
+    .executive-summary-box li + li { margin-top: 11px; }
+    .verdict { padding: 18px 20px; border-left: 5px solid var(--amber); background: var(--amber-soft); border-radius: 12px; }
+    .verdict strong { color: #754100; }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    .card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px; }
+    .card p { margin: 0; }
+    .answer { font-size: 1.22rem; font-weight: 700; margin-bottom: 7px !important; }
+    .yes { color: var(--green); }
+    .partial { color: var(--amber); }
+    .no { color: var(--red); }
+    .table-wrap { overflow-x: auto; margin: 18px 0 8px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); }
+    table { width: 100%; border-collapse: collapse; min-width: 700px; }
+    th, td { padding: 13px 14px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); line-height: 1.45; }
+    th { background: #edf3ef; font-size: .88rem; }
+    tr:last-child td { border-bottom: 0; }
+    .score { font-weight: 700; white-space: nowrap; }
+    .caption { color: var(--muted); font-size: .9rem; margin-top: 8px; }
+    .risk-list { list-style: none; padding: 0; margin: 0; }
+    .risk-list li { padding: 15px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+    .risk-list li + li { margin-top: 10px; }
+    .risk-list strong { display: block; margin-bottom: 3px; }
+    .callout { padding: 18px 20px; background: var(--red-soft); border: 1px solid #efcbc8; border-radius: 14px; }
+    .callout p { margin: 0; }
+    .steps { counter-reset: step; list-style: none; padding: 0; }
+    .steps li { counter-increment: step; position: relative; padding: 0 0 20px 48px; }
+    .steps li::before { content: counter(step); position: absolute; left: 0; top: 0; width: 32px; height: 32px; display: grid; place-items: center; border-radius: 50%; background: var(--green); color: white; font-weight: 700; }
+    .steps strong { display: block; margin-bottom: 3px; }
+    .cut { display: inline-block; margin: 4px 5px 4px 0; padding: 6px 9px; border-radius: 999px; background: #f3eceb; color: #6e3c37; font-size: .88rem; }
+    .source-note { padding: 14px 16px; color: var(--muted); border: 1px dashed #b8c8be; border-radius: 12px; font-size: .92rem; }
+    @media (max-width: 720px) { .grid { grid-template-columns: 1fr; } main { padding: 28px 15px 56px; } }
+    @media print { body { background: white; } main { max-width: none; padding: 20mm 16mm; } .card, .executive-summary-box { box-shadow: none; } a { color: inherit; } section { break-inside: avoid; } }
+  </style>
+</head>
+<body>
+  <main data-report-audience="product stakeholders">
+    <header data-contract-section="title">
+      <div class="eyebrow">Parecer de viabilidade e competitividade</div>
+      <h1>GeoRascunho CAR: parecer sincero</h1>
+      <p class="subtitle">Avaliação do escopo de 18/06/2026 contra o edital, o Guia do Participante, o Briefing v2, a live preparatória, o processo real do CAR e benchmarks atuais.</p>
+    </header>
+
+    <section class="executive-summary-box" data-contract-section="executive-summary">
+      <h2>Executive Summary</h2>
+      <ul>
+        <li><strong>A ideia resolve uma dor real, mas não está pronta para vencer.</strong> O escopo atual é amplo, mistura a jornada de Luana com a de produtor/técnico e demonstra uma propriedade, enquanto o Desafio 2 pergunta como atualizar anualmente o uso e cobertura do solo em escala estadual.</li>
+        <li><strong>O protótipo é viável; o produto prometido, não.</strong> Em 48 horas dá para demonstrar uma pré-checagem explicável com dados preparados. Não dá para sustentar upload arbitrário, georreferenciamento, segmentação confiável, classificação de APP/RL, integração de bases e editor completo.</li>
+        <li><strong>Há mercado B2B/B2G, não uma boa tese B2C fechada.</strong> O CAR oficial é gratuito e já existem sistema semelhante gratuito, consultas pagas e consultorias. A receita mais plausível é implantação, hospedagem, suporte e produtividade para órgãos e técnicos.</li>
+        <li><strong>Veredito: promissora, mas precisa corte e reposicionamento.</strong> Eu não apostaria na premiação com o escopo atual. Com uma persona, três telas, um caso preparado e um fluxo aberto de correção humana, passa a ter chance competitiva genuína.</li>
+      </ul>
+    </section>
+
+    <section data-contract-section="key-findings">
+      <h2>Resposta direta às cinco perguntas</h2>
+      <div class="grid">
+        <article class="card">
+          <h3>A ideia venderia?</h3>
+          <p class="answer partial">Sim, com outro comprador.</p>
+          <p>Faz sentido para órgãos estaduais, consultorias, cooperativas e técnicos. É fraca como licença fechada para pequeno produtor, porque o serviço oficial é gratuito e o hackathon exige evolução aberta.</p>
+        </article>
+        <article class="card">
+          <h3>A ideia é viável?</h3>
+          <p class="answer partial">Protótipo: sim. Produto atual: não.</p>
+          <p>Uma demo com dados pré-carregados é segura. A automação genérica de imagens e regras ambientais exige dados, validação e engenharia que não cabem no evento.</p>
+        </article>
+        <article class="card">
+          <h3>Bate com o haCARthon?</h3>
+          <p class="answer partial">Parcialmente.</p>
+          <p>O tema geoespacial é correto e o Briefing v2 cita desenho por foto, celular ou drone. A ligação com atualização anual e escala estadual ainda não aparece no fluxo.</p>
+        </article>
+        <article class="card">
+          <h3>Atende a todos os requisitos?</h3>
+          <p class="answer no">Ainda não.</p>
+          <p>O plano cobre as três entregas e o limite de 2 minutos, mas faltam compromisso verificável com código aberto, independência de plataforma, direitos sobre dados/imagens, formato do pitch e evidência de validação.</p>
+        </article>
+        <article class="card">
+          <h3>Tem chance genuína de vencer?</h3>
+          <p class="answer no">Como está, baixa.</p>
+          <p>A dor é forte, mas a promessa é extensa e o diferencial se sobrepõe ao módulo pré-preenchido, à nova Consulta Pública e ao MAPADOCAR. O corte recomendado muda essa conclusão.</p>
+        </article>
+      </div>
+    </section>
+
+    <section data-contract-section="key-findings-score">
+      <h2>O placar mostra onde a proposta perde força</h2>
+      <p><strong>A relevância é o melhor ativo.</strong> O ponto fraco não é o problema; é a relação entre escala, persona, demonstrabilidade e novidade. As notas abaixo são diagnóstico, não previsão da banca.</p>
+      <div class="table-wrap">
+        <table aria-label="Comparação diagnóstica entre o escopo atual e o escopo recomendado">
+          <thead><tr><th>Critério</th><th>Escopo atual</th><th>Após o corte</th><th>Leitura</th></tr></thead>
+          <tbody>
+            <tr><td>Pertinência temática</td><td class="score">6,5/10</td><td class="score">9,0/10</td><td>É geoespacial, mas ainda não mostra como a correção local melhora a atualização anual da base.</td></tr>
+            <tr><td>Relevância do problema</td><td class="score">8,5/10</td><td class="score">8,5/10</td><td>Erros, retrabalho e dados desatualizados são dores explícitas do briefing.</td></tr>
+            <tr><td>Usabilidade e design</td><td class="score">5,5/10</td><td class="score">8,0/10</td><td>Georreferenciar imagem e editar polígonos é complexo; três decisões guiadas são demonstráveis.</td></tr>
+            <tr><td>Inovação e criatividade</td><td class="score">5,5/10</td><td class="score">7,5/10</td><td>Automação de mapas já tem precedentes. Trilha explicável de correção e revisão humana é mais lembrável.</td></tr>
+            <tr><td>Viabilidade em 48 horas</td><td class="score">4,5/10</td><td class="score">8,5/10</td><td>O escopo atual contém pelo menos cinco produtos técnicos; o recorte usa um caso preparado.</td></tr>
+            <tr><td>Demonstração em 2 minutos</td><td class="score">5,0/10</td><td class="score">9,0/10</td><td>Cinco telas e múltiplas integrações dispersam a narrativa. Um antes/depois fecha em vídeo curto.</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="caption">Base: critérios do Guia, recorte da live preparatória e comparação com o Briefing v2.</p>
+    </section>
+
+    <section data-contract-section="key-findings-risks">
+      <h2>Quatro problemas podem derrubar a nota</h2>
+      <ul class="risk-list">
+        <li><strong>1. A persona declarada não é a persona do fluxo.</strong> O escopo escolhe Luana, mas começa com produtor ou técnico carregando e georreferenciando imagem. A live recomenda uma persona principal. Isso enfraquece usabilidade, métrica de sucesso e pitch.</li>
+        <li><strong>2. O caso local não responde sozinho à pergunta de escala.</strong> O Desafio 2 busca atualização anual, rápida e acurada dos estados. Um rascunho de uma fazenda só fica aderente se a demo mostrar que correções aceitas viram uma camada versionada que alimenta a base de referência.</li>
+        <li><strong>3. O diferencial já está parcialmente ocupado.</strong> O <a href="https://www.mapadocar.com.br/sobre.html">MAPADOCAR</a> descreve desenho web, cálculo de áreas, importação/exportação e bases geográficas. O <a href="https://www.gov.br/governodigital/pt-br/noticias/na-cop30-mgi-lanca-o-car-como-primeiro-bem-publico-digital-do-governo-brasileiro">CAR pré-preenchido</a> já faz verificações fundiárias/geográficas. A <a href="https://www.gov.br/gestao/pt-br/assuntos/noticias/2026/maio/mgi-lanca-nova-plataforma-de-consulta-a-dados-publicos-do-car">Consulta Pública de maio de 2026</a> já entrega mapas e vetores filtrados.</li>
+        <li><strong>4. Há afirmações que precisam ser corrigidas.</strong> A exigência de SNCR/CCIR encontrada para o SICAR/PA não pode ser apresentada como regra nacional. Também não se deve dizer que todas as bases do módulo pré-preenchido estão abertas ou que APP/RL pode ser classificada automaticamente sem revisão competente.</li>
+      </ul>
+    </section>
+
+    <section data-contract-section="key-findings-requirements">
+      <h2>O escopo não atende todos os requisitos ainda</h2>
+      <p><strong>A maioria está encaminhada, mas requisito planejado não é requisito cumprido.</strong> A matriz separa aderência de entrega efetiva.</p>
+      <div class="table-wrap">
+        <table aria-label="Matriz de atendimento aos requisitos do haCARthon">
+          <thead><tr><th>Requisito</th><th>Status</th><th>O que falta</th></tr></thead>
+          <tbody>
+            <tr><td>Escolher um desafio</td><td class="score yes">Atende</td><td>Desafio 2 está explícito.</td></tr>
+            <tr><td>Responder ao núcleo do Desafio 2</td><td class="score partial">Parcial</td><td>Ligar a correção local à atualização anual e estadual.</td></tr>
+            <tr><td>Uma persona e uma dor</td><td class="score partial">Parcial</td><td>Fixar Luana e a triagem de inconsistências; técnico fica secundário.</td></tr>
+            <tr><td>Ideação, protótipo e pitch</td><td class="score partial">Planejado</td><td>Os três entregáveis ainda precisam existir e ser submetidos.</td></tr>
+            <tr><td>Vídeo de protótipo em até 2 minutos</td><td class="score yes">Previsto</td><td>Manter 2 minutos, embora o edital cite 3.</td></tr>
+            <tr><td>Pitch com slides e áudio na plataforma</td><td class="score partial">Parcial</td><td>Registrar explicitamente o formato e ensaiar dentro da plataforma.</td></tr>
+            <tr><td>Evolução em código aberto e independência de plataforma</td><td class="score partial">Parcial</td><td>Definir licença, componentes abertos e ausência de dependência de ArcGIS/GEE.</td></tr>
+            <tr><td>Direitos autorais e licenças de dados/imagens</td><td class="score partial">Parcial</td><td>Identificar licença e atribuição de cada camada e imagem.</td></tr>
+            <tr><td>Sem dado pessoal e sem promessa oficial</td><td class="score yes">Atende</td><td>O escopo usa dados fictícios e mantém o órgão como validador.</td></tr>
+            <tr><td>Equipe, inscrições e prazo</td><td class="score partial">Não avaliável</td><td>O documento não prova cadastro individual, equipe no Discord ou submissão.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section data-contract-section="key-findings-market">
+      <h2>Existe receita, mas o modelo é serviço sobre software aberto</h2>
+      <p><strong>O produtor não é o melhor comprador inicial.</strong> O serviço oficial do CAR é <a href="https://www.gov.br/pt-br/servicos/inscrever-imovel-rural-no-cadastro-ambiental-rural-car">gratuito</a>, enquanto consultorias vendem mapeamento e acompanhamento. A disposição a pagar aparece quando a solução reduz tempo técnico, risco e trabalho de cruzamento.</p>
+      <div class="table-wrap">
+        <table aria-label="Atratividade por segmento comprador">
+          <thead><tr><th>Comprador</th><th>Atratividade</th><th>Oferta plausível</th><th>Risco</th></tr></thead>
+          <tbody>
+            <tr><td>Pequeno produtor</td><td class="score no">Baixa</td><td>Uso gratuito ou assistido por parceiro.</td><td>Baixa alfabetização digital, compra pontual e alternativa oficial gratuita.</td></tr>
+            <tr><td>Técnicos e consultorias</td><td class="score partial">Média</td><td>Hospedagem, lotes de pré-checagem, relatórios e suporte.</td><td>MAPADOCAR gratuito e fluxo já estabelecido em QGIS/AutoCAD.</td></tr>
+            <tr><td>Cooperativas e bancos</td><td class="score partial">Média</td><td>Triagem de carteira, API, monitoramento e auditoria.</td><td>Concorrentes de dados já vendem consultas e relatórios.</td></tr>
+            <tr><td>Órgãos estaduais</td><td class="score yes">Média-alta</td><td>Implantação, integração, SLA, treinamento e customização.</td><td>Venda lenta, contratação pública e necessidade de validação institucional.</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="caption">Sinal de mercado: o <a href="https://www.registrorural.com.br/">Registro Rural</a> exibia assinatura PRO de R$ 149,90/mês para consultas, mapas, KML/KMZ e relatórios no acesso de 18/06/2026. Isso prova existência de oferta paga, não demanda garantida para esta solução.</p>
+    </section>
+
+    <section data-contract-section="recommended-next-steps">
+      <h2>A versão competitiva é uma fila explicável de correções</h2>
+      <div class="verdict"><strong>Recomendação:</strong> manter o nome, trocar a promessa. O GeoRascunho não "gera o CAR". Ele ajuda Luana a revisar uma inconsistência geoespacial e produzir um pacote de correção rastreável.</div>
+      <ol class="steps">
+        <li><strong>Entrada preparada.</strong> Abrir uma propriedade fictícia com geometria do CAR e três camadas públicas/sintéticas já carregadas. Sem upload arbitrário e sem georreferenciamento.</li>
+        <li><strong>Três alertas explicáveis.</strong> Mostrar divergência de limite, possível conflito com água e diferença de cobertura. Cada alerta exibe fonte, data, regra e nível de confiança.</li>
+        <li><strong>Revisão humana.</strong> Luana aceita, rejeita ou ajusta um único polígono. A interface deixa claro que é triagem, não decisão oficial.</li>
+        <li><strong>Saída útil e escalável.</strong> Exportar GeoJSON e checklist. A narrativa mostra que correções aprovadas são versionadas e podem compor a atualização anual da camada estadual.</li>
+      </ol>
+      <h3>Cortes obrigatórios para o hackathon</h3>
+      <p>
+        <span class="cut">upload de qualquer imagem</span>
+        <span class="cut">pontos de controle</span>
+        <span class="cut">treino de modelo</span>
+        <span class="cut">segmentação genérica</span>
+        <span class="cut">classificação legal automática</span>
+        <span class="cut">todos os estados e biomas</span>
+        <span class="cut">integração ao SICAR</span>
+        <span class="cut">arquivo .car oficial</span>
+      </p>
+      <p><strong>Diferencial que deve aparecer no pitch:</strong> correção explicável, revisão humana, trilha de auditoria e contribuição versionada para uma base pública anual. Não "usa IA".</p>
+    </section>
+
+    <section data-contract-section="further-questions">
+      <h2>Três validações podem mudar o veredito</h2>
+      <ol>
+        <li>Uma analista como Luana priorizaria quais três inconsistências antes de abrir o cadastro completo?</li>
+        <li>Qual fonte e licença permitem demonstrar um caso realista sem dado pessoal e sem depender de API pública?</li>
+        <li>O mentor do Desafio 2 confirma que uma fila de correções locais versionadas é aderente à atualização anual estadual?</li>
+      </ol>
+    </section>
+
+    <section data-contract-section="caveats-and-assumptions">
+      <h2>Ressalvas e premissas</h2>
+      <div class="callout">
+        <p>Não houve entrevista com comprador ou persona, nem acesso às propostas concorrentes. Portanto, "venderia" significa plausibilidade comercial, e "chance de vencer" é avaliação qualitativa. O placar não substitui a Comissão Julgadora. Alegações comerciais de terceiros foram usadas apenas como benchmark; regras legais foram ancoradas na Lei 12.651/2012, no Decreto 7.830/2012 e em páginas oficiais.</p>
+      </div>
+      <p class="source-note">Trilha completa de documentos, páginas, conflitos e URLs: <a href="fontes-avaliacao-geo-rascunho-car-2026-06-18.md">fontes-avaliacao-geo-rascunho-car-2026-06-18.md</a>.</p>
+    </section>
+  </main>
+</body>
+</html>
