@@ -88,7 +88,7 @@ Fontes: [OpenAI Codex CLI](https://developers.openai.com/codex/cli), [OpenAI Cod
 
 - Skills oficiais e de comunidade mais maduras.
 - Subagentes com contexto proprio e modelos diferentes.
-- Hooks deterministas para formatacao, lint, seguranca e notificacoes.
+- Hooks deterministas para formatacao, lint, 'seguranca e notificacoes.
 - Worktrees para paralelizar tarefas sem conflito de arquivos.
 
 **Pontos fracos**

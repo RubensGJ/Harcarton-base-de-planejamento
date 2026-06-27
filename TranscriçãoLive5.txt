@@ -1,0 +1,489 @@
+Olá, pessoal. Tudo bem com vocês? Sejam muito bem-vindos e bem-vindas. Abertura oficial do RCK cartom, a maratona de
+0:3333 segundossoluções pro cadastro ambiental rural UCAR. Uma realização conjunta aí do Ministério da Gestão e da Inovação em
+0:4040 segundosServiços Públicos, UMGI, da Fundação Brasileira Pro Desenvolvimento Sustentável, né, o FBDS, do governo da Noruega por meio do Ministério das
+0:4949 segundosRelações Exteriores e Embaixada da Noruega no Brasil, da Escola Nacional de Administração Pública ANAP e do Impact Hub Brasil. E chegou o grande dia,
+0:5757 segundosgente. Quero começar já perguntando quem é que tá na expectativa aí, quem é que tá com ansiedade de começar, né?
+1:041 minuto e 4 segundosFinalmente chegou o grande dia aí do nosso Racatom. Tá empolgado? Comenta aí no chat. Diga aí a cidade que você é, gente, o número da sua equipe. Pessoal,
+1:131 minuto e 13 segundosjá são 178 equipes formadas, então superou aí todas as nossas expectativas.
+1:191 minuto e 19 segundosA gente tá sendo, a gente tá super feliz, né? A gente tá vendo aí vocês conversarem, né? equipes se conectando
+1:261 minuto e 26 segundosdiferentes cidades, diferentes regiões do Brasil para propor soluções. Então, muito bacana ver tanta gente reunida, né, para essa causa tão importante.
+1:351 minuto e 35 segundosEntão, equipe 93 tá aqui, equipe 31, equipe 19. Quem mais tá aqui? Comenta no chat as equipes 106, 126. É isso aí.
+1:441 minuto e 44 segundosPiauí tá aqui presente, pessoal. Eu sou a Ana da Penic Lobster, né? Vou com vou estar aqui com vocês ao longo desses dias acompanhando, né, a operação da
+1:521 minuto e 52 segundosmaratona. Vou estar aqui passando orientações para vocês, ajudando, né, a esclarecer dúvidas e garantir que vocês consigam, né, aproveitar o máximo essa
+2:002 minutosjornada. A gente começa agora oficialmente o RCA. a gente já teve algumas lives, né, alguns encontros anteriores ali, onde a gente trouxe
+2:082 minutos e 8 segundosconteúdo preparatório para vocês. Então, se você perdeu, recomendo que você assista, assista as gravações, gente, porque a gente traz muita dica, muito
+2:162 minutos e 16 segundosconteúdo ali para auxiliar vocês no desenvolvimento das soluções. Então, assistam, porque a partir de agora, pessoal, é que o jogo começa, a partir
+2:252 minutos e 25 segundosde agora é mão na massa. Então, durante esse final de semana aí vocês vão trabalhar, né, para desenvolver essas propostas de solução pros desafios, né,
+2:332 minutos e 33 segundosligados ao car. Então vocês vão ter que pensar aí ideias, né, que possam eh contribuir para tornar essa ferramenta mais simples, ainda mais eficiente, né,
+2:412 minutos e 41 segundosmais integrada e que traga mais impacto pro Brasil. Então, essa live é justamente para pra gente dar esse start, né, a gente dá esse essa largada
+2:492 minutos e 49 segundosaí pra gente relembrar também algumas orientações para vocês, para falar sobre as entregas obrigatórias e também é um momento de tirar dúvidas, tá? Então vocês vão poder esclarecer as dúvidas de
+2:582 minutos e 58 segundosvocês sobre a plataforma do CAR. Então somente hoje, pessoal, sexta-feira, vocês vão ter a oportunidade de esclarecer aí a dúvida de vocês com o
+3:073 minutos e 7 segundospessoal do MGI, da data prévia. Então a gente já já vai ter um momento de tirar dúvidas e às 7 horas da noite a gente também vai ter outra live exclusiva para
+3:153 minutos e 15 segundosessas dúvidas. E ali no Discord também vocês vão poder ir mandando as dúvidas técnicas que a gente vai levar pro time e vai fazer essa ponte com vocês. Então
+3:223 minutos e 22 segundosa gente já disponibilizou para vocês tutorial de como navegar ali no ambiente de teste, a gente passou vários sites ali com insumos das plataformas, né?
+3:313 minutos e 31 segundosEntão pessoal, assistam os materiais porque vocês têm que estar por dentro, né? Saber mergulhar aí sobre os desafios para conseguir propor uma solução.
+3:403 minutos e 40 segundosBeleza? Então, pra gente começar, quero chamar aqui alguns representantes, né, das instituições organizadoras para dar as boas-vindas para vocês. Então, para
+3:493 minutos e 49 segundosabrir essa rodada, quero chamar Giovana Aguiara, ela que é coordenadora geral de gestão de sistemas do CAR. G, boa tarde.
+3:573 minutos e 57 segundosConta pra gente aí qual que é a importância da gente ter uma maratona dedicada ao car.
+4:044 minutos e 4 segundosBoa tarde, gente. Eh, bom, eu sou Giovana Aguiar, sou coordenadora geral de gestão de sistemas do CAR aqui no
+4:114 minutos e 11 segundosMGI, sou engenheira florestal. Eh, eu primeiro quero dar a boa-vinda a todos vocês, as boas-vindas, né, a todos
+4:184 minutos e 18 segundosvocês, todos os participantes. Eh, não só o nosso primeiro racartom, né, o primeiro racartal rural, mas também é o mundo do cadastro
+4:274 minutos e 27 segundosambiental rural. Então, só de saber que a gente tem mais de 1000 pessoas com todo tipo de perfil, né, com todo tipo
+4:344 minutos e 34 segundosde histórico, de formação, conhecendo, se aprofundando no cadastro ambiental rural, estudando sobre código florestal,
+4:414 minutos e 41 segundosconhecendo as nossas ferramentas, podendo ajudar, né, a partir de agora difundir um pouco mais sobre a legislação ambiental brasileira, sobre o
+4:494 minutos e 49 segundoscadastro ambiental rural. Isso já é assim pra gente fantástico, sabe? E o cadastro ambiental rural é a ferramenta de gestão ambiental mais importante do
+4:584 minutos e 58 segundosnosso país. Nós temos a totalidade praticamente dos imóveis rurais cadastrados eh no CAR e ele liga as
+5:075 minutos e 7 segundosinformações sobre a terra, as pessoas e as informações ambientais. Então é um potencial para ser utilizado para
+5:135 minutos e 13 segundosdiversas políticas públicas, né? E nesse contexto, o nosso maior desafio é trazer as pessoas para perto do carro, é
+5:215 minutos e 21 segundosgarantir que eles compreendam quais são as implicações do cadastro mental rural para eles, do código florestal, pros seus imóveis, pra sua vida e garantir
+5:305 minutos e 30 segundostambém que eles têm a melhor experiência possível interagir com cadastro, interagir com o sistema, interagir com o meu imóvel rural, com as diversas
+5:375 minutos e 37 segundosferramentas que a gente tem à disposição paraa população lidar, né, com seu cadastro, interagir com os órgãos
+5:445 minutos e 44 segundosambientais de meio ambiente, estaduais, eh, com os órgãos estaduais de meio ambiente, aliás. Então, vocês vão ter oportunidade de conhecer várias dessas
+5:535 minutos e 53 segundosnossas ferramentas. Eu aconselho que mergulhem nisso, realmente estudem, se aprofundem, tirem dúvidas. A gente tá à
+6:006 minutosdisposição ao longo dos próximos dias para tirar as dúvidas de vocês e as inovações que a gente vai pensar aqui vão poder fazer a diferença na vida de
+6:086 minutos e 8 segundosmuita gente, sabe? Então, desejo a todos vocês uma ótima competição, que vocês tenham um final de semana de trabalho muito rico, muito divertido também, né?
+6:176 minutos e 17 segundosMuito prazeroso. E tenho em mente que é isso, o que vocês estão fazendo aqui vai impactar a gestão ambiental do nosso
+6:246 minutos e 24 segundospaís, vai impactar a vida de eh milhares de produtores e produtoras rurais.
+6:296 minutos e 29 segundosEntão, bom trabalho. A gente tá torcendo por todos vocês.
+6:356 minutos e 35 segundosQue maravilha. Gi, você continua com a gente que no final a gente volta ali para tirar as dúvidas do pessoal e você é especialista nisso, representando aqui
+6:426 minutos e 42 segundosa MGI. Então continua acompanhando a gente nos bastidores que eu já te puxo de volta, beleza?
+6:486 minutos e 48 segundosEntão agora eu convido Carolina Salcedo, ela que é gerente de projetos, gente, do FBDS, ponto focal aí do projeto Car DPG na Fundação. Carol, seja bem-vinda.
+6:586 minutos e 58 segundosQueria passar a palavra para você aí, compartilhar um pouco, né, do papel aí da fundação sobre essa iniciativa e do projeto KDPG nesse movimento. Boa tarde.
+7:087 minutos e 8 segundosBoa tarde. Boa tarde a todos. Super obrigada, Ana. Bom, é uma alegria paraa FBDS tá aqui participando desse evento e
+7:167 minutos e 16 segundostambém ver o Racaton reunindo esse número enorme de pessoas aí para esse desafio que é tão relevante pro Brasil.
+7:227 minutos e 22 segundosAproveito aí para agradecer todo mundo que tá fazendo esse esse evento acontecer, né? MGI, ENAP, Datap, Impact
+7:317 minutos e 31 segundosHub, Governo da Noruega e todos os outros parceiros que fazem parte do projeto CardPG. Então, o
+7:397 minutos e 39 segundosRacaton, ele faz parte de uma das entregas do do projeto CARD DPG, que é o projeto de cadastro ambiental rural como bem público digital. Então, que é um
+7:487 minutos e 48 segundosprojeto bastante ambicioso, né? ele quer fortalecer o car e trazendo bastante soluções, sempre soluções abertas, interoperáveis e colaborativas,
+7:567 minutos e 56 segundostransformando o carro num bem público digital pra gente conseguir fazer com que essas soluções saiam evoluindo
+8:038 minutos e 3 segundoscontinuamente, né, sendo compartilhadas e reutilizadas e adaptadas. Essa é a
+8:108 minutos e 10 segundosgrande intenção. Para além disso, o projeto CARDPG, ele ele tem uma tem um outro lado que é para além dessa desse
+8:188 minutos e 18 segundosdesenvolvimento tecnológico que já vem acontecendo, né? vários produtos do projeto já vem sendo entregues desde o início dele, mas a gente tem uma
+8:268 minutos e 26 segundosintenção de formar uma comunidade tanto de pessoas quanto instituições comprometidas com inovação aberta, né,
+8:348 minutos e 34 segundosvoltadas paraa gestão pública. Então, ao longo do projeto, né, estamos junto aí até 2028, acontecerão workshops,
+8:428 minutos e 42 segundosencontros, capacitações, outros espaços de troca.
+8:468 minutos e 46 segundosDaqui a pouco a gente tá aí lançando o website do projeto, o próprio GitHub, que boa parte aí tenho certeza que os participantes já exploraram, né? Então a
+8:558 minutos e 55 segundosgente tem essa intenção de fortalecer essa rede, ampliar esse conhecimento do que que é um bem público digital, entender qual é a utilidade dele pro
+9:049 minutos e 4 segundosdesenvolvimento do nosso país. Ã, que mais? Acho que assim, dentro do projeto Cardp, né, a gente com essa intenção de
+9:109 minutos e 10 segundoscriar essa essa comunidade, a gente quer fortalecer essa autonomia, né, assim, a inovação e a transformação dentro do setor público brasileiro.
+9:209 minutos e 20 segundosÉ isso. Eh, bom, e aí queria também trazer que essa empolgação toda tem muito a ver com o Racaton, né, que ele é uma praticamente o início, né, que dessa
+9:309 minutos e 30 segundosdessa construção dessa comunidade que a gente tá querendo criar. Então, a gente tá esperando aqui um monte de gente tá entrando para participar desse desafio,
+9:379 minutos e 37 segundosmas na verdade o que a gente espera é que várias pessoas continuem com a gente nessa construção do projeto e também
+9:459 minutos e 45 segundosdessa agenda. Então, como a Giovana aí já colocou, né, nesses três dias, para além de de de soluções, inovações, a
+9:529 minutos e 52 segundosgente vai tá trazendo um um um eh caminhos, né, para fortalecer a implementação do Código Florestal, da
+9:599 minutos e 59 segundospolítica ambiental, né, cuidar aí de fato, eh, apoiar e ampliar a conservação da biodiversidade. Então, os impactos
+10:0710 minutos e 7 segundossão múltiplos, é muito mais do que a gente tá conseguindo medir da parte da FBDS. A gente acredita nisso, né? Que ciência, tecnologia, inovação só fazem
+10:1610 minutos e 16 segundossentido quando a gente tá ali encontrando benefícios concretos para pessoas e também pro meio ambiente. É
+10:2410 minutos e 24 segundosisso. Ã, Ricardo, então, aí pros participantes, muitíssimo obrigado por toparem esse desafio. Eh, cada uma das
+10:3110 minutos e 31 segundosequipes que estão se formando, elas são únicas, né? Estão trazendo aí as personalidades, os conhecimentos, tudo que já viveu, essa diversidade de
+10:4010 minutos e 40 segundosideias. Então, é isso que é muito rico, eh isso que tá deixando aí a gente com muito brilho nos olhos. Aproveitem,
+10:4710 minutos e 47 segundosdivirtam-se, troquem, aprendam com os mentores, com colaborem uns com os outros. A ideia é exatamente é essa, né?
+10:5510 minutos e 55 segundosA essa perspectiva de que a soluções para problemas muito complexos dificilmente vão sair de uma de uma mente só. Precisa dessa diversidade de
+11:0311 minutos e 3 segundosolhares. É isso. Então é isso que tá inspirando aí o projeto CARDPG, o Racarton e tenha inspirado muito a atuação da FBDS.
+11:1311 minutos e 13 segundosDesejo a todos um ótimo evento. Obrigada mais uma vez.
+11:1711 minutos e 17 segundosMaravilha, Carol. Muito obrigada pela sua fala. É isso, gente. Vocês estão fazendo parte de um movimento, né? Esse movimento que tá sendo começado agora com essa comunidade que a gente tá
+11:2511 minutos e 25 segundoscriando, com certeza vai gerar bastante impacto aí. Carol, muito obrigada.
+11:3011 minutos e 30 segundosContinua acompanhando a gente aí nos bastidores, tá bom? Tchau, tchau gente.
+11:3511 minutos e 35 segundosNa sequência então eu quero chamar aqui Michael Trento, ele que é gerente de projetos da Coordenação Geral de Inovação Aberta da Diretoria de Inovação
+11:4211 minutos e 42 segundosda ENAP, Michael, a ENAP ela tem uma atuação aí muito forte, né? inovação aberta no setor público. Então, deixa a mensagem aí paraas equipes, né, que estão começando essa jornada hoje.
+11:5411 minutos e 54 segundosBoa tarde, Ana, obrigado pelo convite.
+11:5811 minutos e 58 segundosEh, primeiramente eu vou saudar toda essa todos os inovadores que se inscreveram neste prêmio, uma quantidade enorme de pessoas, todas as equipes que
+12:0712 minutos e 7 segundosestarão conosco aí nesse final de semana de Racatom.
+12:1112 minutos e 11 segundosEh, saudar também o pessoal do do MGI, com os quais a gente tem uma relação umbilical, né? Nós somos fundação
+12:1812 minutos e 18 segundosvinculada ao MGI, a FBDS, Fundação Brasileira de Desvimento Sustentável, Data Preve, Serviço Florestal
+12:2512 minutos e 25 segundosBrasileiro, Impact Hub e, não menos importante, quem tá patrocinando aqui o governo da Noruega, né?
+12:3112 minutos e 31 segundosEh, como você falou, a INAP tem uma relação umbilical com a inovação. A
+12:3812 minutos e 38 segundosgente tá fazendo 40 anos este ano. É uma escola que uma instituição que começou como como a escola de governo, continua
+12:4712 minutos e 47 segundossendo escola de governo, mas lá atrás ela foi muito voltada paraa formação de servidores, né, em especial aqueles que passam nos concursos públicos federais.
+12:5512 minutos e 55 segundosHoje a gente tá aqui com o pessoal do concurso público nacional unificado, duas turmas, escola lotada, mas a escola
+13:0213 minutos e 2 segundosfoi crescendo, eh, também oferecendo custo de aperfeiçoamento tanto para servidor público federal como também de outros estados e municípios. Hoje temos
+13:1113 minutos e 11 segundoscurso de pós-graduação, especialização, mestrado, doutorado.
+13:1613 minutos e 16 segundosEh, com o tempo a instituição foi se transformando em mais que uma escola, uma espécie de hub de conhecimento, né,
+13:2413 minutos e 24 segundosinvestindo em pesquisa. análise de dados, eh, estudo de evidências.
+13:3013 minutos e 30 segundosE hoje a gente tá fazendo 10 anos da em que a inovação chegou forte na escola, né? A inovação sempre foi a marca da
+13:3913 minutos e 39 segundosescola. A gente tem um prêmio, um concurso inovação, por exemplo, já tá na passou da sua 30ª edição, mas de 10 anos para cá a gente fundou um laboratório de
+13:4613 minutos e 46 segundosinovação. A gente tem incentivado transformação governamental por meio da inovação e investimos na inovação
+13:5413 minutos e 54 segundosaberta. Eu sou da Coordenação Geral de Inovação ATA, que tá é o ponto focal da escola para esse tipo de de prêmio, né?
+14:0114 minutos e 1 segundoA gente que envolve um racatom e já vou dar a deixa, tem dois desafios de inovação aberta ainda que virão no âmbito do cadastro metal rural. Então
+14:0914 minutos e 9 segundosvocês vocês serão aí convidados privilegiados nesse aspecto, né?
+14:1414 minutos e 14 segundosEh, e hoje a INAP é muito mais que uma escola, como eu sempre digo, é uma ICT, é uma instituição que que voltada pro
+14:2214 minutos e 22 segundosensino, voltada para pesquisa, voltada paraa inovação.
+14:2714 minutos e 27 segundosA gente tem Escola Virtual de Governo, por exemplo, que é é aberta para todo mundo, com cursos gratuitos. Temos mais de 1000 cursos abertos, mais de 10
+14:3414 minutos e 34 segundosmilhões de certificados emitidos. Talvez um curso que você esteja pagando esteja lá, só para provocar aqui. Tem curso
+14:4214 minutos e 42 segundospara tudo lá, especialmente voltado paraa formação, tem trilhas de inovação lá, tem a nossa plataforma desafios, eh,
+14:5014 minutos e 50 segundosmediante a qual vocês, eh, se interaram desse prêmio e tem outros lá também, não só que a INAP realiza, mas no qual a
+14:5714 minutos e 57 segundosgente abriga iniciativas de estado, município, instituições diversas lá.
+15:0115 minutos e 1 segundoEntão com, né, convido vocês a pesquisar um pouquinho os cursos que tem na EVG, olhar o nosso portal INAP, plataforma
+15:1015 minutos e 10 segundosdesafios, sigam a gente nas redes sociais e se sintam à vontade para fazer parte desse time, entendeu?
+15:1715 minutos e 17 segundosÓ, desejo maior sorte para todo mundo.
+15:1915 minutos e 19 segundosBom trabalho, boa diversão esse final de semana e que a gente possa se rever aqui na escola, especial na semana de
+15:2715 minutos e 27 segundosinovação. Novembro tá aí. E se vocês não puderem estar presente aqui, eh, participem virtualmente e se puder e
+15:3615 minutos e 36 segundospassar aqui e me reconhecer, vai, vai ganhar um grande abraço e até um bombom. Um abração, gente. Fique com Deus.
+15:4315 minutos e 43 segundosValeu, Mael. É isso aí. Então gente, ó, conheçam mais sobre NAAP e as inúmeras possibilidades. O pessoal tá comentando aqui no chat que já faz curso, então tem
+15:5015 minutos e 50 segundosoutras oportunidades também, desafio de inovação. Michael, muitíssimo obrigada pela sua participação, continua acompanhando a gente nos bastidores. E
+15:5815 minutos e 58 segundospra gente fechar essa rodada de boas-vindas, pessoal, eu quero chamar aqui a Isadora Starlin. Ela que é gerente de projetos da Impact Hub Brasil
+16:0516 minutos e 5 segundose Brasília. Isa, seja bem-vinda. Fala um pouquinho pra gente aí da importância, né, da colaboração entre instituições e participantes, né, de uma maratona como essa. Boa tarde.
+16:1616 minutos e 16 segundosOi, Ana. Obrigada. Um oi enérgico aqui para todos os participantes que se inscreveram, que se interessaram. Eh, a
+16:2416 minutos e 24 segundosgente com os parceiros aqui, a gente foi de maneira empolgada desde a semana passada vendo o volume das inscrições crescerem. Era uma vibração atrás de
+16:3216 minutos e 32 segundosoutra, né? e superou as nossas expectativas de engajamento. Por isso também agradecer muito a gerente de projetos, a Thaísa Magalhães, junto com
+16:4016 minutos e 40 segundoso especialista de inovação aberta, o Rulan, que faz parte da equipe do Impact Hub, que tá nos bastidores colocando a mão na massa para fazer também tudo isso
+16:4816 minutos e 48 segundosacontecer com vocês. E também mandar uma saudação eh de agradecimento aos nossos parceiros, né, Embaixada da Noruega,
+16:5616 minutos e 56 segundosMGI, FBDS e ENAP. E também que dizer que é importante a gente trazer um pouquinho o contexto da como que surgiu Impactub
+17:0517 minutos e 5 segundosdentro dessa desse círculo de inovação, né? Então a gente tá já trabalha com a ecossistema de inovação e impacto social
+17:1217 minutos e 12 segundosno mundo todo. Estamos espalhados em mais de 160 países e aqui no Brasil também estamos em vários estados brasileiros e aqui em Brasília na
+17:2117 minutos e 21 segundoscapital federal, eh, onde eu estou sediada. E aí é importante falar que a gente tá com uma parceria eh de lançar
+17:2917 minutos e 29 segundosdesafios de inovação aberta, aceleração ao longo de uma parceria longeva com a ENAP, que foi fechada em 2024, no qual a
+17:3717 minutos e 37 segundosgente vai lançar mais de 54 desafios via plataforma desafios. Então fiquem atento lá, porque a gente sempre tá lançando.
+17:4417 minutos e 44 segundosTemos outros editais também de inovação aberta, eh, já abertos, eh, conexões inovação aberta Nordeste, agora a gente
+17:5217 minutos e 52 segundostem o Racart e vão sair outros esse ano e ano que vem. Então, é um convite para vocês estarem atentos, participando. A
+17:5917 minutos e 59 segundosgente vai colocar vocês no meil aí também. E agora eu queria só falar um pouquinho da importância da colaboração
+18:0618 minutos e 6 segundose de trazer o que que a Carolina Salcedo falou muito da criação de uma comunidade no qual o Impact tem expertise. Então, a
+18:1518 minutos e 15 segundosnossa ideia eh da maratona não é só também eh enviar premiação, mas também criar um ambiente de colaboração, de
+18:2318 minutos e 23 segundosaprendizado, de trocas e de experiências no quais a gente reúne várias partes interessadas, né? Estudante, vão ter
+18:3218 minutos e 32 segundosempresários, vão ter startups, vão ter pesquisadores no qual vão estar nesse momento intenso, né? Porque a gente sabe
+18:3818 minutos e 38 segundosque em dois dias e meio eh trabalhar tudo que vocês vão ter que fazer é uma aventura, mas é uma aventura que deve ser divertida e também cheia de
+18:4718 minutos e 47 segundosaprendizados. Então, a gente acha que esse papel de reunir parceiros de várias vertentes num ambiente inovador e
+18:5518 minutos e 55 segundoscolaborativo é o que a gente tem de entregar, eh, é o que a gente entrega de melhor.
+19:0119 minutos e 1 segundoEntão é dizer que o Racaton não é apenas uma competição, né, mas é um mecanismo mesmo de mobilização, é uma oportunidade
+19:0919 minutos e 9 segundospara que vocês consigam cocriarem soluções para desafios reais e com o potencial de gerar benefícios para milhares de pessoas, porque a gente tá
+19:1819 minutos e 18 segundoseh diretamente eh relacionado a instituições públicas a nível federativo, que tem um poder eh de
+19:2519 minutos e 25 segundosimpacto social, ambiental enorme no Brasil a nível federal, estadual e municipal.
+19:3219 minutos e 32 segundosE aí, se a gente for descer um pouquinho a lupa, a gente também tá falando eh das comunidades que estão lá, os produtores
+19:3919 minutos e 39 segundosrurais, os analistas ambientais que estão trabalhando. Então, a gente vai ajudar a trazer decisões mais qualificadas para as políticas públicas,
+19:4819 minutos e 48 segundosmais eficiente, conectados a essas pessoas que estão realmente em campo no dia a dia. Então o nosso convite aqui é
+19:5519 minutos e 55 segundosque vocês aproveitem esses dias com muita curiosidade, espírito colaborativo e muita disposição para construir juntos, compartilhar
+20:0420 minutos e 4 segundosconhecimento, desafiar ideias. A gente às vezes tem aquelas ideias prontas, mas será que aquilo que eu tava pensando é o melhor para vocês experimentarem? É um
+20:1320 minutos e 13 segundoslaboratório de experiências aqui que o Racaton vai propiciar e com os especialistas técnicos de alto padrão, alto nível, que vocês vão ter acesso.
+20:2220 minutos e 22 segundosEntão aproveitem. E as melhores soluções realmente nascem eh, não nascem de respostas prontas, elas
+20:3120 minutos e 31 segundosnascem de comunidades que acredito que é possível construir um futuro melhor em conjunto. Então, em nome do Impact Hub
+20:3820 minutos e 38 segundosparceiros, a gente acredita que por meio de uma construção coletiva, a gente vai conseguir os melhores resultados. Desejo
+20:4520 minutos e 45 segundosum excelente racatom a todos e a todas e muito obrigada, Isa. Muitíssimo obrigada. fala super inspiradora. E é isso mesmo, gente,
+20:5420 minutos e 54 segundosparticipar de um racatom, eu falo que é uma experiência assim paraa vida, porque vocês desenvolvem habilidades de comunicação, de trabalho em equipe, né, de propor soluções. Então, aproveitem esse aprendizado como a Isa trouxe.
+21:0521 minutos e 5 segundosAproveitem essa oportunidade para aprender, para trocar, para ensinar e para se divertir. Isa, obrigada, viu?
+21:1221 minutos e 12 segundosContinua acompanhando a gente aí nos bastidores.
+21:1521 minutos e 15 segundosGente, agora sim foi dada a largada aí pro nosso Rartom. Então, como vocês viram, né, pessoal, essa maratona aí reúne diferentes instituições em torno
+21:2421 minutos e 24 segundosde um objetivo, que é fortalecer o cadastro ambiental rural, né, como uma infraestrutura essencial aí pro país.
+21:3121 minutos e 31 segundosEntão, mais do que pensarí em uma melhoria de sistema, né, a gente tá falando em criar soluções mesmo que podem apoiar melhores decisões pro
+21:4021 minutos e 40 segundosterritório brasileiro, né? Então, sobre regularização ambiental, sobre a produção rural, sobre conservação, restauração. Então, se você tá aqui hoje, é porque você também se importa.
+21:5021 minutos e 50 segundosEntão, a gente tá super feliz e agradece seu tempo, a sua participação e a sua dedicação. Agora bora então começar,
+21:5821 minutos e 58 segundosbora fazer uma retrospectiva rápida, né, das principais orientações aqui para todo mundo começar já alinhado, né? Logo
+22:0622 minutos e 6 segundosna sequência a gente já vai falar sobre a primeira entrega deção, mas aproveitem, vão mandando aí, ó, as dúvidas de vocês no chat, que daí a gente vai responder a tudo no final.
+22:1622 minutos e 16 segundosMas, principalmente, pessoal, foquem nas dúvidas sobre a plataforma, sobre os desafios, porque a Geovana vai voltar aqui para responder pra gente no final, beleza gente? Então, bora lá.
+22:2722 minutos e 27 segundosRetrospectiva, objetivo. Então, vocês já sabem, em três dias vão precisar criar uma solução para um dos desafios que são esses daí. tá surgindo dúvida. Ah, mas
+22:3522 minutos e 35 segundoseu posso fazer uma solução pros três desafios? Gente, pode ser que a sua solução de alguma forma ela resolva e atinge os três desafios, mas você vai
+22:4422 minutos e 44 segundoster que escolher um principal, você vai ter que mirar nele, tá? Então, cada equipe vai escolher um desafio e vai propor uma solução. Ana, eu posso fazer
+22:5222 minutos e 52 segundosparte de duas equipes? Não, gente, você só pode participar de uma equipe e vai escolher um desafio, tá? Então, muita
+22:5922 minutos e 59 segundosatenção a isso. Nós disponibilizamos para vocês muitos materiais, tá? Então, tem o briefing dos desafios com todas as
+23:0723 minutos e 7 segundosorientações, tem ali todas as lives preparatórias que a gente já trouxe material para vocês, tem vídeos tutoriais de como navegar no ambiente
+23:1523 minutos e 15 segundosteste, tem vídeos que a gente preparou e disponibilizou para vocês. Lá dentro do Discord tem um canal chamado Materiais de Apoio, que tem todos os links,
+23:2423 minutos e 24 segundospessoal, de outras plataformas também conectadas ali o carlementam o car.
+23:2923 minutos e 29 segundosEntão é fundamental que vocês mergulhem, pessoal, que vocês mergulhem aí nos desafios, nas plataformas já existentes,
+23:3623 minutos e 36 segundosexistentes, porque vocês precisam entender, né, o problema e precisam entender, navegar, se aprofundar para poder propor soluções. Então, a gente
+23:4323 minutos e 43 segundosdisponibilizou todo esse material para vocês e vocês têm que ter conhecimento do que já existe para não desenvolver algo que já existe, que já tá sendo
+23:5123 minutos e 51 segundosrodado, tá? Então, verifiquem esses materiais, tá? tá no grupo de WhatsApp, tá no e-mail e também tá no Discord disponível para vocês. Beleza? Como que funciona então Racaton Online, pessoal?
+24:0224 minutos e 2 segundos100% dentro do ambiente virtual, então é dentro do Discord, né, que vão rolar as interações. Tem ali a programação com todos os links das lives. É ali que
+24:1024 minutos e 10 segundosvocês vão ter as mentorias também que vão pedir auxílio dos mentores, orientação das entregas e também depois a avaliação vai ser feita de forma
+24:1824 minutos e 18 segundosonline. Então vocês vão ter aí três dias começando hoje e acabando domingo para colocar a mão na massa e desenvolver as soluções. A gente vai trazer lives de
+24:2524 minutos e 25 segundostirúvidas, né? Então, como eu falei, daqui a pouquinho e também às 7 horas da noite, live exclusiva de tirar dúvidas para vocês. Aí vocês vão começar a
+24:3324 minutos e 33 segundosdesenvolver também as entregas. A gente vai ter três entregas parciais. Já vou explicar quais são essas entregas aqui.
+24:3924 minutos e 39 segundosVão contar ali com a ajuda dos mentores, né, para desenvolver ali essas entregas.
+24:4324 minutos e 43 segundosNo final desses três dias, vocês precisam submeter essas entregas para concorrer à premiação. Então, a gente tem premiação aí para cinco melhores
+24:5124 minutos e 51 segundosequipes. As cinco melhores ideias, independente do desafio, vão ganhar premiação em dinheiro, que vai ser dividida aí entre todos os integrantes
+24:5824 minutos e 58 segundosda equipe. Beleza? Importante, pessoal, confiram o edital, né? Ali tem os critérios todos que a gente vai avaliar pela banca. Então, leiam os materiais. A
+25:0625 minutos e 6 segundosgente disponibilizou muita coisa para vocês acompanharem e estarem preparados, tá? equipes. Já tem dúvidas aqui sobre
+25:1425 minutos e 14 segundosas equipes, pessoal? São vocês mesmos que vão formar as equipes. A gente já tem aí quase 180 equipes formadas, né?
+25:2025 minutos e 20 segundosNo mínimo duas pessoas e no máximo seis integrantes. Essas equipes precisam estar formadas até hoje, 11:59 da noite,
+25:2825 minutos e 28 segundostá? Então elas têm que ser formadas dentro do Discord, porque quando você forma a equipe, você recebe uma numeração. Com essa numeração, a sua
+25:3525 minutos e 35 segundosvaga está garantida dentro do Rartom. E tem muita gente ainda sem time. Então, se a sua equipe tem vaga, pessoal, vai
+25:4225 minutos e 42 segundoslá, não tô sem time, recruta pessoas que estão querendo muito contribuir. Bora acolher todo mundo, bora fazer todo mundo participar aí dessa experiência,
+25:5025 minutos e 50 segundostá? Entregas, gente, muita atenção em relação às entregas, tá? Então, a gente vai ter três etapas: Ideação, protótipo
+25:5825 minutos e 58 segundose PIT. Vale a pena reforçar que a gente já fez lives preparatórias falando sobre ação, falando sobre protótipo, falando sobre PIT, aonde a gente traz dicas, a
+26:0626 minutos e 6 segundosgente traz conteúdo para vocês. Então é fundamental que vocês assistam, porque isso vai ajudar a direcionar vocês, né, na construção das soluções. Então, esses
+26:1426 minutos e 14 segundoslinks também estão disponíveis para vocês aí em todos os canais que a gente disponibilizou, tá? E aí, para essas etapas que a gente já trouxe o conteúdo,
+26:2226 minutos e 22 segundosa gente vai ter entregas, tá? Então, na entrega deação vocês vão responder perguntas sobre o processo de criação da ideia. Já vou mostrar ela para vocês. No
+26:3126 minutos e 31 segundosprotótipo vocês vão precisar desenvolver, né, um vídeo demonstração mostrando como essa solução funciona.
+26:3826 minutos e 38 segundosLembrando que vocês não vão precisar nenhum entregar, né, nenhum código, nem desenvolver de fato um sistema funcionando aí durante o Racarton. O
+26:4626 minutos e 46 segundosnosso foco é justamente a construção e validação da ideia. Então o que os jurados querem entender, né, é qual problema vocês estão resolvendo, para
+26:5426 minutos e 54 segundosquem, né, como que resolve esse problema, por que ele é relevante e o potencial de impacto. Então esse é o foco. Então a entrega, gente, é de um
+27:0127 minutos e 1 segundoprotótipo. Então você pode fazer ele por desenho de telas, por navegação, enfim, pode desenvolver da forma como quiserem, mas vocês vão fazer um vídeo
+27:0927 minutos e 9 segundosdemonstração pra gente para publicar nessa entrega. Beleza? falando do PIT, então, então o protótipo vocês vão ter 2
+27:1727 minutos e 17 segundosminutos para mostrar como funciona. E por fim, o pit, né, que é uma apresentação geral da ideia ali que vocês vão ter que fazer o pit utilizando
+27:2527 minutos e 25 segundosslides e áudio, tá? Esse pit vai ter no máximo 3 minutos. Então, a gente vai ter protótipo de 2 minutos, pit de 3 minutos
+27:3327 minutos e 33 segundose mais um material de ideação. São essas três entregas que os jurados vão avaliar. Então, as entregas todas elas são complementares e os jurados vão
+27:4127 minutos e 41 segundosanalisar as três entregas para votar nas soluções. Beleza? Onde que eu vou realizar essas entregas? Na plataforma
+27:4827 minutos e 48 segundosque a gente desenvolveu para vocês, pro HCartou. Logo depois da live, a gente vai liberar esse acesso para vocês.
+27:5427 minutos e 54 segundosEntão, vocês vão conferir lá no Discord o link e aí vocês vão ver que na plataforma vai tá divididinho assim, né?
+27:5927 minutos e 59 segundosInclusive, a primeira entrega que a gente tem ali é sobre o cadastro da equipe. Então, ali você vai oficialmente colocar o número do Discord ali dentro, vai colocar os integrantes que fazem
+28:0828 minutos e 8 segundosparte. Então isso vocês precisam fazer até hoje, meia-noite, tá? As outras entregas, entrega 1, 2 e três, você tem
+28:1528 minutos e 15 segundosaté domingo à noite para realizar. E aí, gente, vocês vão ver que na plataforma de entregas, ao clicar em cada uma desses quadradinhos, tem as orientações
+28:2428 minutos e 24 segundosdo que precisa ser feito, tá? Então vocês conseguem já ver o que vai acontecer. E lá para baixo tem o botão de fazer a entrega e é bem tranquilinho
+28:3128 minutos e 31 segundosna plataforma vocês vão colocando as respostas, tá? Sugestão, façam isso no Discord, no Drive, algum rascunho e
+28:3928 minutos e 39 segundosdepois de ter as respostas vocês entrem na plataforma para escrever, tá? Copiem e colhem ali. Por quê? Porque tem gente que preenche direto na plataforma,
+28:4828 minutos e 48 segundosinternet cai, luz cai, perde o que tá escrito, tá? Então a plataforma só vai salvar quando vocês enviarem. Então, muita atenção, não escrevam direto na
+28:5628 minutos e 56 segundosplataforma sem enviar, senão vocês correm risco de perder o material.
+28:5928 minutos e 59 segundosBeleza? Mas é bem tranquilinho aqui, campos para vocês digitarem e muita atenção, quero trazer esse ponto de
+29:0629 minutos e 6 segundosatenção paraa entrega do Pit, né? Então, eh, muita gente acompanhou a live de Pit, aonde eu trouxe ali uma sugestão de estrutura e também mostrei onde deveria
+29:1529 minutos e 15 segundosser a gravação do PIT, né? Em primeiro momento, a gente ia fazer a gravação do PIT dentro da plataforma do Rartom, mas a gente teve aí esse sucesso aí de
+29:2329 minutos e 23 segundosequipes, a gente tá com quase 200 equipes. Então, para não sobrecarregarem o sistema e gerar lentidão, a gente sabe que o tempo de vocês é precioso também.
+29:3229 minutos e 32 segundosEntão, a gente vai fazer, a gente mantém, né, com slides e áudio, mas é livre aonde vocês vão gravar esse pit,
+29:4029 minutos e 40 segundostá? Então, a gente sugere ali o próprio Canva, você pode fazer os slides ali já gravar e baixar. Então o pit vai ser feito da mesma forma que o protótipo.
+29:4729 minutos e 47 segundosVocês vão gravar ele, subir no YouTube e colocar o link nessa entrega, tá? Então, diferente do que eu tinha apresentado na live de Pit, a gente fez essa
+29:5529 minutos e 55 segundosatualização, mas todas as orientações estão descritas para vocês dentro das entregas, tá? Então, o pit tem que ter no máximo 3 minutos, tem que ser
+30:0330 minutos e 3 segundosobrigatoriamente feito com slides e áudio. Então, você vai gravar, fazer uma apresentação de slides e vai gravar áudio em cima, né, navegando pelos
+30:1130 minutos e 11 segundosslides, como se você tivesse fazendo uma apresentação ao vivo, tá? Pode gravar em qualquer plataforma. A gente recomenda o Canva. Tem inclusive um tutorial mostrando como você grava isso no Canva.
+30:2130 minutos e 21 segundosDepois você vai pegar esse vídeo, subir no YouTube e colocar o link na entrega.
+30:2530 minutos e 25 segundosMas falarei mais sobre isso, né, no domingo, quando a gente trouxer ali, né, as orientações da live eh do da entrega
+30:3230 minutos e 32 segundosde pit. Beleza? Então, ah, todos os integrantes da equipe têm que responder a entrega, não. Escolham aí uma pessoa da equipe, né? Uma entrega por equipe.
+30:4030 minutos e 40 segundosEntão, uma pessoa vai preencher e realizar as entregas. Ah, Ana, mas eu enviei de ação, mas a gente conversou aqui com o mentor e mudou, a gente revu
+30:4830 minutos e 48 segundosaqui. Que que eu faço? É só você submeter de de novo, né, a entrega deção, porque a gente sempre vai considerar a última versão enviada, tá?
+30:5730 minutos e 57 segundosEntão não tem problema, envia de novo que a gente vai excluir a anterior e considerar sempre a última que você enviar. Beleza, pessoal? Todas as
+31:0531 minutos e 5 segundosentregas devem ser realizadas até domingo, dia 28, às 11:59 da noite, horário de Brasília. a gente tem Brasil todo participando, então muita atenção.
+31:1631 minutos e 16 segundosÉ 11:59 do horário de Brasília, tá? A plataforma ela vai fechar nesse horário e aí vocês não vão conseguir realizar
+31:2331 minutos e 23 segundosmais nenhuma das entregas. Então não deixem pra última hora, pessoal. A gente vai liberar já já depois dessa live o
+31:3131 minutos e 31 segundoslink para essa plataforma para vocês verem as entregas e já começar a trabalhar nas submissões, combinado?
+31:3731 minutos e 37 segundosmentores, gente. Então vocês vão ter acesso, né, a mentores de diferentes áreas do conhecimento. Então as orientações a gente também vai colocar lá dentro do Discord para vocês, mas
+31:4531 minutos e 45 segundosdentro da sala exclusiva da sua equipe, você vai pedir mentoria sobre o que você estiver precisando, tá? E aí a gente vai fazer essa conexão, o mentor vai até a
+31:5431 minutos e 54 segundostua sala conversar com vocês. Então vocês viram que cada sala tem canal de áudio também, então sugiro que vocês conversem com o mentor. Às vezes a
+32:0232 minutos e 2 segundosmentoria por chat, gente, ela não flui tão bem. É mais fácil chamar o mentor pro canal de áudio. Mentor, tô querendo desenvolver isso, isso e aquilo. O que que você acha? É muito mais fácil vocês
+32:1032 minutos e 10 segundosterem essa troca por voz, tá? Então a nossa sugestão é que vocês puxem essas mentorias pro canal de voz, tá? Então depois a gente vai passar essas
+32:1832 minutos e 18 segundosorientações de como vocês pedem os mentorias por lá. Como eu já falei, mentorias sobre os desafios a gente vai ter somente hoje, sexta-feira, pessoal.
+32:2732 minutos e 27 segundosEntão aproveitem, mandem as dúvidas de vocês sobre os desafios, sobre a plataforma, tá? A gente vai responder algumas aqui, outras que não derem
+32:3432 minutos e 34 segundostempo, a gente vai responder para vocês no Discord também. A gente vai ter uma live mais tarde, às 7 horas, para tirar dúvidas exclusivas de vocês sobre os
+32:4232 minutos e 42 segundosdesafios. Então aproveitem aí para tirar essas dúvidas, beleza? programação.
+32:4832 minutos e 48 segundosEntão, começamos hoje, a gente vai até domingo, então tem aí amanhã às 9 da manhã e domingo às 9 da manhã a gente vai fazer uma live rápida só para abrir
+32:5732 minutos e 57 segundosa entrega ali de protótipo, explicar o que tem que fazer, abrir a entrega de pit, explicar o que tem que fazer e tirar eventuais dúvidas que vocês tenham. Então, participem aí das lives.
+33:0533 minutos e 5 segundosO prazo, como eu falei, para inscrição de equipe é hoje, mas as outras entregas você vai entregar ali até domingo,
+33:1333 minutos e 13 segundoscombinado? Lembrando, 11:59 da noite. Eu vou falar isso bastante para vocês não esquecerem. Então, Discord, pessoal, todo mundo tem que tá lá dentro do
+33:2033 minutos e 20 segundosDiscord, já falei, tá? Tem tudo lá, tem todas as orientações. Então, separem um tempinho para ler as orientações. Ah, mas eu não sei qual que é minha equipe,
+33:2933 minutos e 29 segundosse eu já tô numa equipe. Gente, lá embaixo, ó, lá embaixo, no canto esquerdo, tem o número da sua equipe. Se tiver aparecendo ali, é o número da sua
+33:3733 minutos e 37 segundosequipe, tá? Aqui eu trouxe o exemplo da equipe cinco, mas o número que estiver aparecendo é o número da sua equipe. Ah, mas não tem número nenhum ali, então
+33:4533 minutos e 45 segundosvocê ainda não tá com a sua equipe registrada, tá? Porque a sala exclusiva da sua equipe vai estar aparecendo ali embaixo, beleza? Comunicação, pessoal,
+33:5333 minutos e 53 segundosfiquem de olho no grupo de WhatsApp, também no canal de avisos do Discord, a gente vai passar as orientações lá dentro. Então agora a gente não vai mandar tanto e-mail para vocês, a gente
+34:0234 minutos e 2 segundosvai centralizar as informações nesses ambientes pra gente ganhar mais agilidade, beleza?
+34:0834 minutos e 8 segundosPara finalizar, então, respeito o pessoal acima de tudo, né? a gente quer que esse seja um ambiente seguro, né, colaborativo e acolhedor para vocês.
+34:1534 minutos e 15 segundosEntão, a gente não vai tolerar nenhum tipo de preconceito, discriminação, assédio, comportamento aí inadequado.
+34:2134 minutos e 21 segundosEntão, se vocês passarem por alguma situação desconfortável, até mesmo com mentor, algo assim, percebeu algo errado, chama a organização, conversa
+34:2934 minutos e 29 segundoscom a gente. A gente tá aqui, né, para eh ter essa oportunidade de aprender, de trocar, de testar ideias, né, de construir junto. Então, a gente quer que
+34:3734 minutos e 37 segundosvocês aproveitem a jornada, não é? Não é para vocês ficarem ansiosos, com medo, mas a gente disponibilizou para vocês
+34:4534 minutos e 45 segundosmuita informação. Então, a gente quer também que vocês eh verifiquem tudo que a gente preparou, porque com certeza muitas dúvidas de vocês estão sanadas já
+34:5334 minutos e 53 segundoscom os materiais de apoio, tá? A gente tá aqui para ajudar vocês. Então, sigam as etapas, não tenham medo de perguntar.
+34:5934 minutos e 59 segundosA gente tá aqui para tornar essa experiência também a mais divertida possível, tá bom? A gente quer que vocês curtam aí a jornada. dúvidas. Gente, eu
+35:0835 minutos e 8 segundosjá vi que vocês foram mandando várias dúvidas aí no chat. Mandem as dúvidas.
+35:1135 minutos e 11 segundosEu vou abrir rapidinho aqui. Já vou puxar a GI para cá. Mas eu vou abrir rapidinho aqui, gente, a entregue então
+35:1935 minutos e 19 segundosde ideação, para já puxar para vocês o que que a gente vai pedir, tá? Compartilhar só aqui minha tela.
+35:3235 minutos e 32 segundosEntão, dá um zoom aqui. A gente tem então aqui a plataforma, né, pessoal? E aqui então o cadastro de equipe, como eu falei para vocês, o prazo é hoje, então
+35:4035 minutos e 40 segundostodas as equipes devem preencher aqui hoje, tá? É só clicar, preencher as informações que tão ali, tá? Então rolou, tranquilinho, preencheu.
+35:5035 minutos e 50 segundosE aqui é entrega um de ideação, pessoal.
+35:5235 minutos e 52 segundosEntão, entrega um que que a gente tá pedindo para vocês, né? Aqui processo de brainstorm, então para vocês contarem pra gente como que foi esse processo da
+35:5935 minutos e 59 segundosescolha da ideia, né? Quais ideias surgiram? Qual ideia vocês vão desenvolver para vocês contarem aí pra gente esse processo de construção, qual
+36:0836 minutos e 8 segundosproblema vocês querem resolver, quem enfrenta esse problema, o que que acontece hoje, né, que gera essa dificuldade, por que esse problema é importante? Então vocês vão responder
+36:1536 minutos e 15 segundospra gente. Solução, descreva a solução que vocês estão querendo criar, como é que ela funciona, como é que ela resolve o problema que vocês apresentaram aqui em cima. Para quem é a solução de vocês,
+36:2536 minutos e 25 segundosquem que vai se beneficiar, né? Produtor rural, analista ambiental, quem que vai ser? Escolham, né? Expliquem porque vocês escolheram esse público. Impacto.
+36:3336 minutos e 33 segundosEntão, quais são os impactos e resultados esperados com a ideia de vocês, né? O que que mudaria pra vida do produtor rural, pro car, pros órgãos ambientais? Então, seja quem foi teu
+36:4136 minutos e 41 segundospúblico alvo, qual que é o impacto que você vai gerar com essa ideia diferencial? O que que torna essa solução? Então, interessante, né? Como é que esse problema é resolvido hoje? Que
+36:4836 minutos e 48 segundosque a proposta de vocês traz de diferente? Tragam aqui pra gente esse diferencial. Viabilidade, então se a solução ela é viável de ser
+36:5636 minutos e 56 segundosdesenvolvida, né, em termos legais, tecnológicos, operacionais. Então fale um pouquinho sobre isso também. Quanto tempo que vocês acreditam que é necessário para implementar a solução?
+37:0437 minutos e 4 segundosEntão, se vocês tivessem todos os recursos disponíveis aí, quais seriam as principais etapas dessa implementação?
+37:1037 minutos e 10 segundosAqui uma pergunta sobre código aberto, né? Como vocês sabem, como a Carol trouxe ali o cartão, ele busca incentivar soluções que possam evoluir, né, como bem público digital. Então,
+37:1937 minutos e 19 segundoscomo que essa solução ela poderia ser compartilhada depois para que outras organizações, estados ou países também pudessem, né, utilizar? Então a ideia aqui é vocês explicarem como essa solução ela pode ser compartilhada, tá?
+37:2937 minutos e 29 segundosEntão não é para trazer código nem nada.
+37:3137 minutos e 31 segundosE por fim mentoria, né? Vocês vão pedir mentoria e vão apresentar a solução de vocês e coletar feedback para colocar aqui nessa entrega. Então aqui tão, né,
+37:4137 minutos e 41 segundosas perguntas. Isso daqui é o processo de ideação. Então com essas perguntas vocês agora vão se reunir com a equipe e vão
+37:4837 minutos e 48 segundoscomeçar a definir qual proposta vocês vão desenvolver, tá gente? Então esse processo deção faz muito parte da construção do que vocês estão querendo
+37:5637 minutos e 56 segundosdesenvolver. Então a gente quer respostas aqui. Então não é nenhum testão gigante, é muito mais objetividade para ajudar vocês nesse processo de construção da ideia.
+38:0638 minutos e 6 segundosCombinado? Essa entrega, gente, dúvidas em relação às entregas, comentem aí.
+38:1038 minutos e 10 segundosDepois a gente vai explicando, né, sobre as outras entregas que vão ser realizadas. Então, eh, nas outras lives
+38:1838 minutos e 18 segundosa gente vai falar sobre isso, mas o foco de agora é ideação. Então, vou trazer aqui, ó. Ideação é até hoje às 23:59?
+38:2638 minutos e 26 segundosNão, gente, ideação, protótipo e pit é até domingo, tá? Hoje somente é cadastro das equipes, tá, pessoal? Então, para
+38:3438 minutos e 34 segundoshoje é só cadastro das equipes. Levi tá falando que tá tudo tranquilo por enquanto. Maravilha. Então, vou trazer a
+38:4138 minutos e 41 segundosGi para cá. Gi, quando eu vou puxando as perguntas do pessoal aqui, me diga, tem alguma coisa que você acha importante
+38:4838 minutos e 48 segundosreforçar já para eles das orientações, do que você imagina?
+38:5738 minutos e 57 segundosOi, Ana. Tava aqui olhando também as perguntas já ali no YouTube, né, e vi
+39:0339 minutos e 3 segundosque uma pergunta tava eh falando sobre o o map biomas. Eh, então vou voltar nessa questão do que você acabou de falar, né,
+39:1239 minutos e 12 segundossobre eh as soluções serem baseadas em em soluções abertas, né, de de código
+39:1939 minutos e 19 segundosaberto. A gente precisa, claro que aqui não é para ninguém desenvolver código, né? Eu acho que isso é uma uma premissa,
+39:2739 minutos e 27 segundosmas é importante que as ideias não dependam de plataformas específicas, sabe? Que as ideias sejam feitas de uma
+39:3539 minutos e 35 segundosforma genérica que possam ser implementadas. independente da plataforma, né? A gente fala agnósticas, porque não adianta, por exemplo, fazer
+39:4439 minutos e 44 segundosuma solução excelente, mas que depende de uma conta no Google Earth Engine ou que depende de ter uma licença do ARGIS,
+39:5239 minutos e 52 segundossabe? Então isso pensando ali no no desafio dois, né? E pros outros desafios também, assim. Então, não adianta pensar
+39:5839 minutos e 58 segundosnuma solução que eh ainda que seja só um protótipo, mas que aquele protótipo para ser desenvolvido no futuro vai depender
+40:0640 minutos e 6 segundosde soluções fechadas, de soluções eh pagas e etc., né? Então, eh MAPBOMAS é uma iniciativa muito importante, né, no
+40:1440 minutos e 14 segundosBrasil, embora não seja um dado oficial, né, não é um dado produzido pelo governo, mas
+40:2240 minutos e 22 segundose assim por instituições independentes, mas que tá ancorado no Google Eartend.
+40:2640 minutos e 26 segundosEntão, eh, podem ser usados os dados, eu acho, para, para a pessoa, né, pensar na ideia dela, para ela, eh, montar ali um
+40:3540 minutos e 35 segundosraciocínio, mas a solução não pode estar ancorada nele, né, ou similar a ele, ancorado ao Google Athending. Então, só
+40:4340 minutos e 43 segundosum já respondendo aqui uma das perguntas que surgiu e deixando esse recado para todos.
+40:4940 minutos e 49 segundosPerfeito. Vamos puxar então. Vou começar a puxar algumas perguntas aqui que o pessoal trouxe. Eh, em relação a essa
+40:5740 minutos e 57 segundospergunta surgiu bastante, né? E quando a sua ideia contempla todos os tópicos, né? quando a sua ideia eh ela permeia pelos três desafios. Isso pode acontecer, né, G, de alguma forma, mas eles vão escolher apenas um desafio.
+41:0841 minutos e 8 segundosEntão, se você quiser trazer bem pontualmente sobre cada um dos desafios, o que que vocês esperam para conseguir ajudar eles a determinar qual desafio eles vão seguir, eh, vai ser bacana, Gi.
+41:1941 minutos e 19 segundosAh, legal. Bom, a gente tem é isso, tem com certeza tem ideias, né, que vão contemplar tudo. A gente tem um desafio
+41:2741 minutos e 27 segundosfocado principalmente em comunicação, né, em levar assim, conseguir chegar no produtor, fazer ele interagir com
+41:3541 minutos e 35 segundoscadastro, fazer com que ele às vezes retifique seu cadastro, receba as notificações, veja o que tá acontecendo,
+41:4241 minutos e 42 segundosinterage com algo de meio ambiente. a gente tem uma solução baseada em bases de referência, mapeamento, né, um
+41:4941 minutos e 49 segundoscomponente de aespacial, talvez esse seja mais diferente do dos três desafios. E a gente tem um desafio também muito focado em legislação, né,
+41:5841 minutos e 58 segundosem difusão desse conhecimento, difusão, como é que a gente faz para para que o produtor consiga entender o que que o Código Florestal quer dele, né, ou dela?
+42:0842 minutos e 8 segundosPorque o código florestal é uma lei complexa, né? Eh, para ele entender o que que significa regularização ambiental, entender o que que implica
+42:1742 minutos e 17 segundosali. Não é só fazer o cadastro, o cadastro vai ter outras implicações depois eh para aquele produtor, né? Eu acho que eh quando o cadastro começou a
+42:2742 minutos e 27 segundosser povoado ali em 2014, as pessoas, muitas pessoas acharam que era isso, fazia o cadastro e esquecia disso, né? E
+42:3542 minutos e 35 segundoshoje a gente tá em 2026 com uma certa dificuldade de fazer as pessoas voltarem para olhar seu cadastro, verem se foram notificadas, se tem que fazer alguma
+42:4342 minutos e 43 segundoscoisa com ele. Então tem também esse lado de, né, tanto da comunicação quanto de entender a legislação. São desafios
+42:5242 minutos e 52 segundosdiferentes, um e o três ali. Eh, então é isso. Eu vejo dois muito diferente dos outros, sinceramente, mas os outros dois consigo ver, né, que tem ali, dá para
+43:0143 minutos e 1 segundoter ideias que que tratam as duas coisas, mas acho que os participantes têm que escolher também a o desafio que parece que a sua solução tenha mais aderência, né?
+43:1043 minutos e 10 segundosExatamente isso. Escolha o que tem mais aderência a sua solução. Em relação ao desafio dois, pede para atualizarmos o sistema do cara anualmente de forma mais
+43:1843 minutos e 18 segundosrápida. Como isso é feito atualmente, Gi?
+43:2143 minutos e 21 segundosÉ, então é porque não é bem atualizar o sistema, sabe, gente? atualizar os mapeamentos usados pelo sistema. Então, como que isso funciona hoje, né? Eh,
+43:3043 minutos e 30 segundosvamos dizer que a gente tem uma imagem de satélite 2025 e a partir dessa imagem de satélite 2025 é feito um mapeamento,
+43:3843 minutos e 38 segundosné, uma vetorização das informações que são vistas ali na imagem para que elas sejam usadas no carro. Então, claro que
+43:4543 minutos e 45 segundosa gente foca no nas informações que são relevantes para a implementação do código florestal, né? a área de
+43:5243 minutos e 52 segundosvegetação nativa, área consolidada, área de hidrografia, que daí vai derivar o eh
+44:0044 minutosa PP de de hidrografia, as áreas de relevo, né? Então, essas são as áreas relevantes. A partir daquela imagem de
+44:0744 minutos e 7 segundossatélite, a gente vai transformar em mapas que aí o nosso sistema consegue confrontar com o que o produtor declarou. É muito importante que a gente
+44:1644 minutos e 16 segundosconsiga ter essa atualização anual. Hoje a gente não tem, hoje a gente tem essa atualização a cada 2 anos, 2 anos e meio, dependendo do estado, às vezes até
+44:2444 minutos e 24 segundosmais tempo, porque demora para fazer esse mapeamento, demora pegar uma a imagem de um estado, né, ainda mais se
+44:3244 minutos e 32 segundosfor um estado grande e e dizer assim, né, eh transformar essa imagem em mapa.
+44:4244 minutos e 42 segundosE aí hoje o que a gente o que acontece é que até a gente pegar uma imagem nova, transformar em mapa, colocar dentro do sistema, vão 2 anos, 2 anos e meio.
+44:5144 minutos e 51 segundosEntão os estados já começam a usar os mapeamentos com uma defasagem grande, né? Eh, então o desafio é para isso, assim, o que que a gente pode fazer para
+44:5944 minutos e 59 segundostornar isso mais rápido? para que quando o analista ambiental do estado vai analisar o cadastro que tá lá no car,
+45:0745 minutos e 7 segundosele tenha uma informação mais eh precisa, mais atual possível, sem ter que esperar tanto tempo para isso. É por aí o desafio.
+45:1645 minutos e 16 segundosPerfeito, gente. Priorizem perguntas relacionadas ao desafio, tá? Ai tá aqui para esclarecer para vocês. Tô vendo muita pergunta sobre o processo. Acho
+45:2545 minutos e 25 segundosque é natural, né? Porque a gente tá na primeira live, acredito que a live das 7 da noite, vocês vão ter mais perguntas direcionadas a Giovana aqui também, mas
+45:3345 minutos e 33 segundosaproveitem para tirar as dúvidas sobre os desafios, tá pessoal? Eu vou responder rapidinho enquanto vocês não mandam aqui algumas perguntas gerais que surgiram aqui, né? Então tem template
+45:4145 minutos e 41 segundosdeção, acabei de mostrar como é, gente, vocês vão responder diretamente dentro da plataforma. Eu tenho minha dupla, como que eu sei que a minha equipe tá cadastrada lá dentro do Discord,
+45:5045 minutos e 50 segundospessoal? Tem que ter número, tem que entrar no Discord, tem que registrar a equipe lá dentro. Se você não tá no Discord, sua equipe não está participando, tá? Pode ser áudio feito
+46:0046 minutospor IA? Não, Jorge, não pode. Áudio gravado por algum integrante da equipe.
+46:0546 minutos e 5 segundosLink da plataforma de entregas vamos liberar somente depois da live. Tem prazo para escolher os desafios hoje, Maissa? Mas hoje vocês vão registrar lá
+46:1346 minutos e 13 segundosa equipe e vão colocar o desafio de vocês. Mas a gente sabe que ao longo do racatom vocês vão poder eh pode ser que vocês mudam desafio, vocês estão
+46:2046 minutos e 20 segundosdesenvolvendo algo e aí vocês chegam num ponto que fala: "Hum, mas isso que a gente tá desenvolvendo faz mais sentido no desafio dois do que desafio um".
+46:2846 minutos e 28 segundosEntão não tem problema nenhum mudar, tá?
+46:2946 minutos e 29 segundosEm todas as entregas tem ali a escolha do desafio. Então a entrega final de pit vocês vão ter que registrar qual é o desafio de vocês. Não tem problema mudar
+46:3746 minutos e 37 segundosao longo do racatom. a gente sabe que isso pode acontecer, que vocês podem pivotar a ideia, que vocês podem a todo momento estar interagindo aí com o que
+46:4546 minutos e 45 segundosvocês estão desenvolvendo, tá? A solução precisa ser necessariamente um sistema ou pode ser outras estruturas, como a gente trouxe, né? Pode ser outras
+46:5446 minutos e 54 segundosestruturas complementares ali de alguma forma. Não é um sistema, gente. Vocês vão aperfeiçoar o que já existe. Vocês vão buscar ali soluções para serem
+47:0147 minutos e 1 segundoimplementadas. Então, muita atenção, verifiquem lá o briefing dos desafios. A gente já teve live sobre isso também, tá? Nível de fidelidade esperada pro
+47:1047 minutos e 10 segundosprotótipo. Basta mocaps de telas ou precisa ter código? Não precisa de código, basta um mocaps de tela. A gente quer ver como funciona a solução de
+47:1747 minutos e 17 segundosvocês, como funcionaria, tá? Mas não precisa tá rodando ali. A equipe foi registrada no Discord, precisa ser cadastrada em outro ambiente também?
+47:2447 minutos e 24 segundosSim, gente, na plataforma de entregas, aonde eu coloquei, vocês vão oficialmente cadastrar ali agora que vocês já têm um número da equipe.
+47:3247 minutos e 32 segundosPodemos cadastrar um novo usuário para entregar nosso grupo hoje ou somente para quem se cadastrou na plataforma até ontem? Só pode inscrever hoje e inserir
+47:4047 minutos e 40 segundosno time quem já tá inscrito. As inscrições acabaram ontem, então se a pessoa tá inscrita, ela pode ser inserida na equipe. Senão, não. Então, é
+47:4847 minutos e 48 segundosobrigatório utilizar a mentoria? Sim, Leia. pelo menos um mentor você vai ter que conversar para colocar o feedback na entrega, tá? As equipes escolhidas para premiação depende do problema escolhido.
+47:5947 minutos e 59 segundosÉ possível que entre as cinco escolhidas nenhum seja do problema um. A gente vai ter duas bancas, Paulo. Então, eh, na primeira banca a gente já vai selecionar as top de cada desafio que vão seguir
+48:0848 minutos e 8 segundospra segunda banca. Mas pode acontecer sim, eh, das ganhadoras, né, terem aí, eh, acho difícil isso acontecer. a gente
+48:1548 minutos e 15 segundosjá faz, enfim, vários racatons, então tem bastante eh diversificação ali nas equipes vencedoras, mas pode acontecer de algum desafio, um, dois ou três, ter
+48:2448 minutos e 24 segundosmais equipes vencedoras, tá? Vamos puxar novas dúvidas que surgiram aí. Vamos ver.
+48:3148 minutos e 31 segundosDos gargalos apresentados no desafio um, exclusão digital, retificações e comunicação. Qual hoje gera o maior impacto pros órgãos ambientais? G.
+48:4548 minutos e 45 segundosBom, eh, é um impacto em cadeia, né?
+48:4748 minutos e 47 segundosEntão, assim, eh, talvez o o nosso maior gargalo hoje para que o o a o cadastro
+48:5548 minutos e 55 segundosambiental rural avance é que os proprietários venham pro cadastro fazer as retificações solicitadas, né? Então, a gente precisa que quando o órgão
+49:0349 minutos e 3 segundosambiental pede pro proprietário retificar, que ele realmente volte no CIC e faça a retificação que foi solicitada. Mas por que que eles não
+49:1149 minutos e 11 segundosvoltam? E aí a gente entra em todas essas outras questões, né? Às vezes são questões de exclusão digital, às vezes são questões de comunicação, às vezes é
+49:1949 minutos e 19 segundosporque quem fez o cadastro paraa pessoa foi um técnico, né, que ela já nem tem mais contato e que usou o próprio e-mail
+49:2749 minutos e 27 segundosdo técnico e aí a pessoa nunca fica sabendo que, né, que precisa interagir com cadastro. Eh, enfim, a gente tem n
+49:3549 minutos e 35 segundosrazões, né? Mas eh eu diria que hoje um dos principais gargalos aí no carro são as retificações que não são atendidas.
+49:4249 minutos e 42 segundosMesmo tem uma expectativa de quanto tempo um analista leva para analisar um cadastro no car ou um lote?
+49:5049 minutos e 50 segundosAh, a gente tem duas ferramentas diferentes paraa análise do cara. Uma é um pouco mais manual, ela é semiautomática, né? Então nela um
+49:5849 minutos e 58 segundosanalista leva algumas horas porque ele vai olhar detalhadamente um imóvel de cada vez, né? né? E aí geralmente eles usam essa ferramenta quando tem eh
+50:0750 minutos e 7 segundosalguma questão que fazem eles precisarem usar essa ferramenta mesmo mais detalhada. E a gente tem uma ferramenta de análise automatizada em que um lote
+50:1550 minutos e 15 segundosde cadastros aí de 20.000, 30.000 cadastros é analisado em um dia, sabe, por um estado. Então varia bastante de acordo com o estado, com o tipo de móvel, etc.
+50:2950 minutos e 29 segundosQuando você menciona que leva cerca de 2 anos para os dados aparecerem nos sistemas, isso se refere ao processo de coleta e atualização feito por drones?
+50:3650 minutos e 36 segundosTeria outro método? Como é feito isso?
+50:3950 minutos e 39 segundosTá, não, não é isso. Eh, isso significa o processo de transformar uma imagem de satélite, que via de regra é o que a
+50:4650 minutos e 46 segundosgente utiliza, né? É o que os estados utilizam, são imagens de satélite em um mapa vetorial. Então, é esse processo de
+50:5450 minutos e 54 segundosclassificação da imagem de satélite nas classes que são necessárias para usar no no SICAR, né, que são necessárias pro
+51:0351 minutos e 3 segundoscomprimento do código florestal, é o que demora um tempo para ser feito, porque é um processo de classificação normalmente semiautomatizada, mas que tem muita
+51:1151 minutos e 11 segundosinteração humana, eh, um processo de correção longo, assim,
+51:1951 minutos e 19 segundospodemos incluir uma ORL de demo interativa com material complementar na entrega será considerado pelos avaliadores. Ivan, sim, tem uma opção lá que você pode colocar um link extra, tá?
+51:2851 minutos e 28 segundosEh, mas é extra para os jurados avaliarem, então eles vão olhar esse material também, mas não tem uma nota específica para isso, tá? Entendo que
+51:3651 minutos e 36 segundosnão é um sistema completo, mas não está claro se a solução precisa ser algo complementar ao sistema siicar existente ou se pode ser uma ação que acontece fora da estrutura do sistema.
+51:4751 minutos e 47 segundosEh, pode ser uma coisa fora, gente, não precisa ser no SICAR, não. Assim, essa foi uma das também das premissas que a gente adotou, né? a gente sabe, o SICAR
+51:5451 minutos e 54 segundosé um sistema de 12 anos, ele tem mais de 38 módulos ao todo, então ele é um sistema complexo, né, grande. E então a
+52:0352 minutos e 3 segundosgente sabe, né, que que vão ter soluções por fora e é desejável até que tenha soluções por fora. Quando a gente fala ali, principalmente, né, desafio um,
+52:1052 minutos e 10 segundosdesafio três, eh, não tem nenhum problema que que as soluções sejam fora.
+52:1552 minutos e 15 segundosTambém não tem nenhum problema se vocês verem ali, né, no próprio SICAR, nos módulos que vocês vão interagir, que são os módulos que o proprietário possuedor interage, eh possibilidade de melhoria.
+52:2752 minutos e 27 segundosQual o benefício vocês oferecem para as pessoas fazerem essa retificação ou cadastro rural? Que benefício vocês oferecem?
+52:3452 minutos e 34 segundosEh, as pessoas são obrigadas a retificar, gente. Elas são obrigadas a declarar pela legislação. Elas são obrigadas a fazer a o cadastro no carro
+52:4252 minutos e 42 segundose mantê-lo atualizado, né, e prestar as informações corretas. Então, é como um cadastro da do imposto de renda, por
+52:4952 minutos e 49 segundosexemplo, muito similar. Eu acho que para para ficar mais claro, né? Você faz o seu o seu declaração do imposto de renda, se você declara alguma coisa
+52:5752 minutos e 57 segundoserrada, a receita vai te avisar: "Olha, isso aqui tá estranho, tá errado". E aí você tem a oportunidade de lá eh retificar isso, né, e declarar corretamente. Então é a mesma lógica.
+53:0653 minutos e 6 segundosAlém disso, né, quem tem o seu cadastro validado e aí muitas vezes a retificação é uma etapa necessária para essa
+53:1453 minutos e 14 segundosvalidação acontecer. Eh, tem acesso a crédito rural mais barato, pode ter acesso a outras políticas públicas
+53:2053 minutos e 20 segundostambém. Então, tem uma série de eh direitos e benefícios que a pessoa tem caso ela tenha um um car, né, regular, certinho, validado, sabe?
+53:3453 minutos e 34 segundosAlguns estados possuem seus próprios sistemas estaduais, como por exemplo, o Goiás. Sobre o desafio dois, segue a mesma lógica das bases de referências?
+53:4253 minutos e 42 segundosAh, pois é, o, essa questão das bases de referências, ela varia muito de acordo com o estado e com qual sistema eles usam, né? Hoje a gente tem eh 11 estados
+53:5253 minutos e 52 segundosque usam seus próprios sistemas diferentes do SICAR. Eh, todos eles precisam de base de referência. Agora, como cada estado decide fazer essas bases de referências, varia bastante.
+54:0354 minutos e 3 segundosEh, de modo geral, todos fazem o mesmo processo de pegar a imagem de satélite, eh, transformar em mapas, né, vetoriais para depois confrontar com os cadastros.
+54:1554 minutos e 15 segundosMas aí tem uns que fazem ah pro município, então eles fazem o mapeamento do município de cada vez. Tem outros que pegam a imagem pro estado inteiro e vão fazer essa transformação em mapa, sabe?
+54:2754 minutos e 27 segundosVaria bastante, mas a lógica é sim a mesma para todos.
+54:3454 minutos e 34 segundosAlém do cadastro, a retificação também é feita pelo HER? Já existe algum tipo de notificação, por exemplo, por e-mail ou WhatsApp?
+54:4154 minutos e 41 segundosEh, não, gente, deixa eu explicar um pouco melhor assim, né? O hoje pros usuários do Brasil, eh, tudo é feito
+54:4954 minutos e 49 segundospelo SICAR para os estados, é lógico, que usam SICAR, né? Eh, então vamos falar aqui dos 16 que usam SICAR
+54:5754 minutos e 57 segundosfederal. Então, eh, eles fazem o cadastro pelo SICAR, eles fazem retificações pelo SICAR, recebem notificações também pelo SICAR. Hoje a
+55:0555 minutos e 5 segundosgente não tá em nenhuma integração com WhatsApp das notificações eh do SICAR, mas tem integração com e-mail. Então eles recebem no e-mail o aviso de que
+55:1355 minutos e 13 segundosteve uma notificação na central do proprietário possuidor. Eh, o R foi uma versão eh open source que a gente fez do
+55:2155 minutos e 21 segundosmódulo de cadastro para ser compartilhado, né, com com outros países, com outras instituições ou até
+55:2855 minutos e 28 segundosoutros estados que queiram utilizar. E e o R a partir dele a gente construiu o
+55:3555 minutos e 35 segundosmódulo de cadastro pré-preenchido, que vocês vão ter acesso, né, para navegar, testar e conhecer que o módulo de
+55:4355 minutos e 43 segundoscadastro pré-preenchido foi lançado em novembro do ano passado para cadastros e aí esse ano a gente implementou também
+55:5055 minutos e 50 segundosretificações nele. E ele já traz as informações de cinco bases de dados que o do governo, né? Então ele traz CPF,
+55:5855 minutos e 58 segundosCNPJ, CP, eh, e duas, dois sistemas fundiários, que é o CGEF e o SNCR. Então
+56:0656 minutos e 6 segundosassim, a gente fez o ré, que vocês podem navegar e vão ver que ele é um pouco mais simples, ele é tem uma uma carinha
+56:1256 minutos e 12 segundosmais light assim, né, mais eh customizável, ele é feito para que outros países adaptem as suas necessidades ou estados, né, adaptem
+56:2156 minutos e 21 segundossuas necessidades. E a partir dele a gente transformou no cadastro pré-preenchido que tá em produção e é o que os os produtores rurais utilizam
+56:2956 minutos e 29 segundoshoje para fazer seus cadastros e retificações.
+56:3456 minutos e 34 segundosNo início do caro, muitas pessoas fizeram, né, declararam sem critérios.
+56:3756 minutos e 37 segundosEntão, seria interessante ter uma política para resolver isso e daí partir para outras soluções?
+56:4456 minutos e 44 segundosEh, sim, é uma das frentes que a gente tem. Eh, o cadastro pré-preenchido, né, como eu falei, ele é uma dessas frentes.
+56:5056 minutos e 50 segundosEntão, ele já começa a cruzar dados com a Receita Federal, cruzar dados com o INCRA, para que a gente vai fechando, né, esse cerco e não deixando, eh,
+56:5956 minutos e 59 segundosqualquer cadastro entrar sem critérios, como como você falou na pergunta. Eh, mas são várias frentes que a gente tem que atacar, né? Hoje a gente tem mais de
+57:0757 minutos e 7 segundos8 milhões de cadastros na base, então eles também têm que ser analisados e validados pelos estados. E a gente tem uma série de filtros também. Então é
+57:1657 minutos e 16 segundosisso, a gente vai fechando por vários lados para deixar o cadastro cada vez melhor e mais qualificado.
+57:2257 minutos e 22 segundosO SICAR possui API documentada?
+57:2657 minutos e 26 segundosO CICA possui quatro APS documentadas, não são APIs públicas, elas são para eh outros órgãos públicos, né? Elas estão
+57:3357 minutos e 33 segundosdisponíveis no na plataforma Conecta Goov. E vocês podem dar uma olhada lá no nos dados e na documentação das quatro.
+57:4257 minutos e 42 segundosO CAR que foi disponibilizado pela MGI como digital publicado como base no RCA. Teremos acesso ao SICAR.
+57:4957 minutos e 49 segundosO hair pode ser usado como base no hacatom para vocês conhecerem, entenderem um pouco a lógica dele, mas não é obrigatório de jeito nenhum, até
+57:5757 minutos e 57 segundosporque a gente não vai trabalhar com soluções com código, né, Ana? Então, assim, a gente não vai trabalhar com desenvolvimento de soluções aqui, só com
+58:0558 minutos e 5 segundosprotótipo nesse primeiro momento. Eh, vocês têm acesso ao SICAR, eh, no módulo de sustentação dele para testes e aí
+58:1358 minutos e 13 segundosvocês vão conseguir conhecer o módulo de cadastro offline, o módulo de cadastro pré-preenchido e a central do proprietário possuidor. Eh, vão ser
+58:2358 minutos e 23 segundosdisponibilizados ou já foram, né, Ana, os links para que vocês conheçam vídeos também mostrando como navegar neles, tá?
+58:3058 minutos e 30 segundosdentro da dentro do Discord de materiais de apoio, tem todos esses materiais para vocês. Pessoal, as retificações,
+58:3858 minutos e 38 segundoselas são solicitadas de forma recorrente, principalmente devido à sobreposições.
+58:4358 minutos e 43 segundosHoje o sistema identifica sobreposição automaticamente ou isso depende de uma análise manual?
+58:4958 minutos e 49 segundosEh, sim, o sistema identifica sobreposições automaticamente.
+58:5358 minutos e 53 segundosDependendo da sobreposição, vai ser enviado um alerta pro proprietário eh retificar, né, ou enviar documentação quando, por exemplo, tem uma
+59:0259 minutos e 2 segundossobreposição como unidade de conservação. Eh, enfim, tem outros casos também, né?
+59:0759 minutos e 7 segundosUma área embargada, etc. Eh, mas a ideia é que a aicação seja feita ou só uma vez
+59:1559 minutos e 15 segundosou sempre que mudar alguma coisa no imóvel, né? Então, se não nunca mudou nada no imóvel e você fez um cadastro errado, o órgão ambiental vai te pedir
+59:2359 minutos e 23 segundospara retificar, deixando esse cadastro correto. Eh, e aí você deixou ele correto e nada mais mudou, pronto, tá
+59:3159 minutos e 31 segundosfeito. Agora, eh, se você vendeu um pedaço ou você, eh, mudou a cobertura de
+59:3859 minutos e 38 segundosde e uso do solo do imóvel, aí é necessário fazer uma retificação para informar que algo mudou no imóvel, entende? Então, não é uma coisa anual,
+59:4759 minutos e 47 segundospor exemplo, como imposto de renda. Eh, e os órgãos ambientais têm a premissa de mandar o pedido de retificação uma vez
+59:5559 minutos e 55 segundossó pro mesmo erro, né? Eh, ou pros erros que foram identificados naquele momento, mas eh
+1:00:041 hora e 4 segundossempre que mudar algo no imóvel é necessário retificar.
+1:00:091 hora e 9 segundosPodemos incluir o CAF no desafio? Porque o CAF é o benefício que o governo prospera, o produtor atrás do CAR para
+1:00:171 hora e 17 segundoster o direito ao CAF e conseguir o crédito no banco e investir na sua propriedade. Não sei se você acompanhou a IG.
+1:00:251 hora e 25 segundosAcompanhei. Eh, então, gente, a gente tem o aplicativo Meu Imóvel Rural, que também foi desenvolvido aqui pelo MGI e
+1:00:321 hora e 32 segundosao qual vocês também vão ter acesso a um vídeo para explicar o que que ele faz, né? Ele também tá disponível para ser baixado eh
+1:00:401 hora e 40 segundostanto por aplicativo quanto site. Eh, no aplicativo Meio Móvel Rural a gente traz os dados do CAF também ligados ao car,
+1:00:491 hora e 49 segundosné? Então ele traz o meio imóvel rural, ele é um aplicativo para mostrar pro proprietário os dados do seu imóvel.
+1:00:561 hora e 56 segundosEntão ali a gente traz o car, a gente traz as informações fundiárias do CGFNCR, a gente traz as informações do
+1:01:021 hora, 1 minuto e 2 segundosCAF também. Então assim, nada impede, se for relevante, né, paraa sua solução trazer os dados do CAF, eh, pode ser
+1:01:101 hora, 1 minuto e 10 segundosfeito, sem problemas, pessoal. Últimas perguntas, então, aqui que a gente vai buscar responder nesta live, que já tá passando do nosso tempo
+1:01:181 hora, 1 minuto e 18 segundosaqui. A gente não quer ocupar muito também o tempo de vocês, mas vocês vão poder continuar mandando perguntas lá dentro do Discord e preparar as perguntas paraa nossa live às 7 horas,
+1:01:271 hora, 1 minuto e 27 segundostá? Dúvidas mais técnicas. Últimas perguntinhas aqui de então, qual é a motivação e aumentar o entendimento das legislações do CAR pro pequeno e pro médio produtor?
+1:01:371 hora, 1 minuto e 37 segundosÉ, a motivação é porque essas legislações os afetam, né? Eles precisam cuidar da sua propriedade, gerenciar suas propriedades e postes rurais de acordo com a legislação ambiental.
+1:01:481 hora, 1 minuto e 48 segundosEntão, para isso, eles precisam entender que legislação é essa, o que que ela tá pedindo dele, o que ela tá exigindo dele, né? Então, é muito importante que
+1:01:551 hora, 1 minuto e 55 segundoseles que eles tenham ciência do que é uma reserva legal, o que que pode fazer na reserva legal, o que é uma PP, né, uma área de proteção permanente, o que
+1:02:031 hora, 2 minutos e 3 segundosque eles podem fazer nessa área, eh se eles precisam recuperar alguma área dentro do seu imóvel, se eles têm um
+1:02:111 hora, 2 minutos e 11 segundosexcedente de vegetação nativa, eh, que pode ser gerar benefícios para ele, né?
+1:02:181 hora, 2 minutos e 18 segundosEntão, a gente hoje tem a cota de reserva ambiental em que o produto rural pode eh comercializar, né, mesmo essas cotas no
+1:02:261 hora, 2 minutos e 26 segundosmercado. Então, assim, é muito importante que eles entendam, porque é isso que guia todo o trabalho deles, né, toda a vida deles ali no imóvel rural.
+1:02:371 hora, 2 minutos e 37 segundosMaravilha, gente. Então, selecionamos aqui algumas dúvidas que não foram respondidas, que a gente vai responder na live das 7 horas. Quem tiver outras dúvidas, manda lá no Discord que a gente
+1:02:451 hora, 2 minutos e 45 segundosvai reunir essas dúvidas também para esclarecer, para bater esse papo na live das 7. Essa live foi mais de orientação também para vocês, mas vocês já pegaram
+1:02:531 hora, 2 minutos e 53 segundoso jeito, né, que vocês é papum, vocês mandam dúvida, a gente já responde aqui de bate pronto com a Giovana também.
+1:02:581 hora, 2 minutos e 58 segundosEntão a gente espera vocês às 7 horas da noite. Gi, muito obrigada aí pela sua participação. Obrigada a todo mundo que participou aí desse momento de dúvidas.
+1:03:061 hora, 3 minutos e 6 segundosJá já vocês vão receber então acesso à plataforma de entregas e também como solicitar mentoria ali dentro do Discord, né? Então é uma ajuda super
+1:03:141 hora, 3 minutos e 14 segundosimportante que vocês vão ter ali de mentores de diferentes áreas do conhecimento, mas as dúvidas dos desafios a gente volta às 7 horas da
+1:03:211 hora, 3 minutos e 21 segundosnoite, beleza? Então gente, aproveitem aí, né, para entrar no Discord, quem ainda não formou equipe, entrem lá,
+1:03:281 hora, 3 minutos e 28 segundospeçam ajuda, quem tá precisando de ajuda, a gente tá aqui para auxiliar vocês. Valeu todo mundo que tá aqui acompanhando, né, essa abertura agora.
+1:03:361 hora, 3 minutos e 36 segundosRarton começou oficialmente. Aproveitem a maratona e bora colocar a mão na massa, Gi. A gente se encontra também às 7 horas da noite aqui. Valeu, gente. Bom racartão para todo mundo.
+1:03:471 hora, 3 minutos e 47 segundosCiao. Ciao.

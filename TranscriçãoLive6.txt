@@ -1,0 +1,400 @@
+úsica]
+0:2626 segundosOlá, pessoal, tudo bem? Boa noite para todo mundo que tá aqui acompanhando, começando mais uma live aí do RCartom, live exclusiva de tira dúvidas e junto
+0:3535 segundoscomigo Giovana Aguiar do MGI aqui para esclarecer as dúvidas de vocês. Então gente, não traremos nenhum conteúdo específico nessa live. A gente tá aqui
+0:4343 segundospara fazer esse bate-bola. Então vocês mandam as dúvidas e a gente responde.
+0:4747 segundosEntão tem muita equipe que mandou dúvida ali no Discord sobre o desafio. Então o momento é esse. Mandem para falar ao vivo aqui com a Geovana que a gente já
+0:5555 segundosaproveita para responder. Então algumas dúvidas ali ficaram, né, eh um pouquinho atrasadas, já mandaram faz tempo. Então
+1:031 minuto e 3 segundosaproveitem para refazer essas perguntas aqui. Dúvidas que a gente não respondeu na live das 2as da tarde que a gente fez, mande aqui de novo também que a
+1:101 minuto e 10 segundosgente vai responder. Beleza? Vamos começar já aqui então, Gi. Alguma coisa, alguma primeira impressão já da primeira
+1:181 minuto e 18 segundoslive, algo que você queira já reforçar pro pessoal. Eu tô vendo que eles ainda tão com dificuldade de entender um pouco a questão dos desafios. É muito
+1:251 minuto e 25 segundosimportante que eles naveguem nos materiais que a gente disponibilizou para eles, certo, Gi?
+1:301 minuto e 30 segundosExatamente, gente, a gente explicou bastante ali, né, qual é realmente a ideia de cada desafio, as personas que
+1:381 minuto e 38 segundosinspiraram, né, os desafios, eh, o que que a gente já tem de material no SICAR, o que que a gente já tem de solução, né?
+1:461 minuto e 46 segundosTem os vídeos mostrando como navegar nas soluções que eu acho que vão fazer muita diferença para quem nunca entrou no Cicar, para quem nunca mexeu. Então,
+1:531 minuto e 53 segundosnaveguem bem. Outra coisa que eu queria ter falado de manhã, eh, mais cedo, né, as duas e e depois lembrei, Ana, eh, um
+2:012 minutos e 1 segundodos links que a gente disponibilizou para quem tá com dúvida sobre bases de referência é do SNIF, que é onde ficam, é um portal do serviço florestal, onde
+2:092 minutos e 9 segundosficam guardadas as bases de referência usadas pro carro. Então, quem quiser conhecer quais são esses temas, né, como elas são, que cara tem, vocês podem ir
+2:182 minutos e 18 segundoslá no portal do Snif, que tá no nos links lá elencados no material para conhecer as bases de referência, especialmente a de cobertura e uso do
+2:272 minutos e 27 segundossolo, que é a que precisa ser atualizada com mais frequência.
+2:322 minutos e 32 segundosPerfeito. Lembrando que, gente, dentro do Discord tem o canal lá materiais de Apoio que tem todos esses links, né? né?
+2:392 minutos e 39 segundosA Giovana trouxe, tem vídeo tutorial também, gente. Então, mergulhem aí nos materiais que a gente passou para vocês, tá? Então, vamos começar com dúvidas aqui bem específicas. Vamos respondendo.
+2:522 minutos e 52 segundosVamos lá. Até até uma uma O Sérgio trouxe um comentário aqui. Eu achava que o car da minha chácara tava tudo OK estudando pro Racart. Parece que não. A
+3:013 minutos e 1 segundogente começa. E é justamente isso, né, Gi, que a gente busca. Até a dificuldade para quem para quem tem a propriedade tem essa dificuldade de atender, né?
+3:093 minutos e 9 segundosEntão, exatamente. E e às vezes tá também, tá, gente? Então, tem que realmente mergulhar aí, dar uma olhada, entrar na
+3:173 minutos e 17 segundossua central do proprietário possuidor, ver se você já tinha entrado antes, conhecer. Eu acho que isso é muito rico e é o que a gente falou de manhã, né,
+3:253 minutos e 25 segundosassim, além de ter as pessoas aqui fazendo inovação pro carro, tem as pessoas conhecendo sobre ele, né, conhecendo sobre a política, a legislação.
+3:333 minutos e 33 segundosPerfeito. Você vai ser um próprio a persona aí, né, da sua solução que você tá criando. Sérgio, Vittor, plataforma
+3:413 minutos e 41 segundospro cadastro da equipe já está disponível? Sim, publicamos dentro do Discord já, já tá disponível lá canal das entregas. Gente, se minha solução passar pelo WhatsApp, ela pode ser considerada open source e será aceita?
+3:543 minutos e 54 segundosEh, acho que sim. Tudo bem, acho que que faz sentido.
+3:593 minutos e 59 segundosDe alguma forma, ela vai estar integrada, né? Os protótipos podem considerar integrações futuras com o sistema do car ou a avaliação será feita
+4:064 minutos e 6 segundosassumindo uma solução totalmente independente? K.
+4:134 minutos e 13 segundosEh, as duas coisas, tanto podem ser soluções que que se proponham a ser integradas com SICAR, né, com o sistema
+4:204 minutos e 20 segundosdo car, quanto podem ser soluções totalmente diferentes, um aplicativo, um sei lá, acho que tem tanta coisa, né,
+4:274 minutos e 27 segundosAna, que que eles podem vir a pensar que até ruim a gente ficar elencando assim, mas um site, uma plataforma, tanta coisa
+4:344 minutos e 34 segundospode ser solução, mesmo que seja desacoplada do cicro. Eu vou até voltar um pouco para falar daquela pergunta do WhatsApp, né? Eu acho que talvez uma
+4:424 minutos e 42 segundoscoisa que a gente pode pensar, uma forma de pensar é assim: "Ah, eu quero fazer uma solução que mande mensagens pro produtor, né? Eh, precisa ser no
+4:514 minutos e 51 segundosWhatsApp. Ah, a gente sabe, o WhatsApp é o que todo mundo usa mais, OK? Pode ter essa indicação, mas a minha solução também funciona se for para mandar
+4:594 minutos e 59 segundosmensagem no Telegram ou ela também funciona para mandar mensagem, sei lá, na caixa postal goov.BR, né? Então, eu
+5:065 minutos e 6 segundosacho que é assim que a gente pensa nesse nessa desacopulação, sabe? Eh, então acho que o ideal é você não pensar numa
+5:145 minutos e 14 segundossolução que só funciona no WhatsApp, ainda que a gente entenda, né, assim, olha, eu indico que seja no WhatsApp, que é onde as pessoas usam mais, mas que
+5:225 minutos e 22 segundosseja uma solução, por exemplo, que pode mandar mensagens pro produtor via diferentes aplicativos. É uma opção também.
+5:315 minutos e 31 segundosPerfeito.
+5:335 minutos e 33 segundosA persona escolhida independe do desafio, podem ser usado para os três, certo? ou tipo produtor é mais pro desafio um dentro do Brasil desafios.
+5:435 minutos e 43 segundosNão, tanto. Eh, as duas se aplicam para todos assim, porque elas contam história ali de da vida, né, ou da jornada do
+5:515 minutos e 51 segundosprodutor no car interagindo com o seu cadastro ambiental rural e dos analistas ambientais, dos órgãos ambientais que
+5:595 minutos e 59 segundosfazem tudo, gente. Os analistas ambientais recebem o produtor para tirar dúvida, para explicar, para mostrar a notificação, para explicar a legislação,
+6:076 minutos e 7 segundosné? Eles analisam o cadastro, então eles é que consomem a as bases de referência.
+6:136 minutos e 13 segundosE em última instância, por exemplo, o produtor não vai usar a base de referência, né? Porque ele não faz esse trabalho, mas eh o imóvel dele tá sendo
+6:236 minutos e 23 segundosutilizado com base nessa base de referência. Então ele pode discordar dela, por exemplo, ele pode concordar, né? a gente tem uma outro uso para as
+6:316 minutos e 31 segundosbases de referência que a gente também não falou eh mais cedo, mas que tá escrito no material, que é eh em breve a
+6:396 minutos e 39 segundosgente vai ter uma funcionalidade no cadastro pré-preenchido, em que as bases de referência vão ser oferecidas pro produtor usar para
+6:486 minutos e 48 segundospreencher seu cadastro. Então, igual a gente entra ali no imposto de renda e já tem tudo que que a gente, né, teria que
+6:556 minutos e 55 segundosinformar, eh, a nossa ideia é trazer esse mapa pré-preenchido no módulo de cadastro pré-reenido. É uma solução que
+7:037 minutos e 3 segundostá em desenvolvimento. Então, acaba que o o produtor também vai interagir com a base de referência dessa forma, sabe?
+7:127 minutos e 12 segundosMaravilha. Até você falou de base, tem pergunta aqui da Tati. As bases são diferentes pros estados. Nossa solução pode focar um estado ou precisa ser compatível com todo o Brasil?
+7:217 minutos e 21 segundosPode focar em um estado, não tem problema. Eh, as bases são produzidas por estado, até por uma questão de de autonomia do estado, né, de eh eleger
+7:307 minutos e 30 segundoscomo ele quer fazer, que empresa contratar, eh ou que recurso ele vai ter disponível para contratar e e mandar
+7:387 minutos e 38 segundosfazer as bases de inferência, né? Então vocês podem pensar na lógica de um estado, não tem problema.
+7:457 minutos e 45 segundosO demonstrativo ou análise dinamizada expõe os valores numéricos. Área de, déficit de RL, área de a recompor,
+7:537 minutos e 53 segundosmemória de cálculo ou só status mais mapa. O que que hoje é mostrado?
+7:587 minutos e 58 segundosHum. O demonstrativo mostra eh, ele tem um quadro área em que ele mostra as áreas de cada feição eh ambiental do imóvel, né, com base na declaração.
+8:108 minutos e 10 segundosEntão, ele mostra eh área de app, ele mostra reserva legal, área recompô.
+8:168 minutos e 16 segundosEntão é nesse quadro área ali. E os demonstrativos são públicos, gente.
+8:208 minutos e 20 segundosEntão vocês podem entrar no portal do Consulta Pública e assim aleatoriamente baixar alguns para ver como é que é o
+8:278 minutos e 27 segundosdocumento, o que que ele traz de informações. Eu acho que isso é muito importante.
+8:318 minutos e 31 segundosEh, e a análise dinamizada é a nossa ferramenta que serve para analisar o
+8:388 minutos e 38 segundosdado do CAR, ou seja, para confrontar o que foi informado na declaração com o que já tem na base de referência.
+8:498 minutos e 49 segundosPerguntas aqui sobre mentorias, né?
+8:508 minutos e 50 segundosObrigado ter pelo menos uma mentoria. Se sim, como faz para marcar uma? A gente postou lá dentro do Discord as orientações. Sim, na entrega deção vocês
+8:588 minutos e 58 segundosprecisam conversar com pelo menos um mentor, apresentar a ideia ali pro mentor e trocar, tá? Então a mentoria não é só até hoje, gente. Vai ter mentoria aí pro final de semana também.
+9:089 minutos e 8 segundosDúvidas sobre o desafio é até hoje, tá?
+9:119 minutos e 11 segundosEntão dúvidas pontuais iguais. Estão surgindo dúvidas técnicas aqui sobre o car, sobre as ferramentas, é até hoje, tá? Mas dúvidas gerais, feedback da
+9:209 minutos e 20 segundossolução, vocês podem pedir durante todo o final de semana. Beleza.
+9:259 minutos e 25 segundosProtótipo precisa ser o MVP desenvolvido e funcional com código ou basta as telas? Basta as telas. A gente já falou bastante sobre isso, gente. Não vamos
+9:329 minutos e 32 segundosexigir códigos e sistemas funcionando. O que deve ser entregue na ideiação também já falamos na live anterior, então assiste a gravação lá que tem as
+9:409 minutos e 40 segundosorientações, tá gente? Nicola, como a OEema calcula na prática o déficit de RL? O que que é indispensável? Vegetação
+9:499 minutos e 49 segundosem 2008, averbação, compensação, módulo fiscal.
+9:559 minutos e 55 segundosOi, Nicola. É importante, o que que é essencial, né, para calcular o o déficit de reserva legal? Eh, a o tamanho do
+10:0310 minutos e 3 segundosimóvel primeiro. Então, a gente vai ter isso porque é obrigatório declarar o limite do imóvel.
+10:1010 minutos e 10 segundosDepois a cobertura e uso do solo, que vai ser ou reserva ou vegetação nativa,
+10:1710 minutos e 17 segundosou área consolidada, que significa uma área convertida antes de julho de 2008, ou vai ser a área antropizada, que
+10:2510 minutos e 25 segundosquando você tá, você vai ver ali, se você for mexer nos módulos de cadastro, quando você deixa em branco, eh, o próprio sistema calcula o que ficou em branco como área antropizada.
+10:3610 minutos e 36 segundosEh, então a partir desse dessas informações e da informação, é claro, de onde está a reserva legal da pessoa que
+10:4410 minutos e 44 segundosela vai declarar. Então, primeiro ela vai declarar o uso do solo. A primeira camada ali que tá dizendo o que que eu tenho aqui no solo, né, na minha
+10:5110 minutos e 51 segundospropriedade. Por cima do uso do solo, ela vai dizer onde está a reserva legal dela. E aí o sistema mesmo cruza essas
+10:5910 minutos e 59 segundosinformações e vai dar paraa ema e pra própria pessoa a informação de olha, na sua reserva legal tem área eh que
+11:0811 minutos e 8 segundosprecisa ser recuperada ou não. A sua reserva legal tem a vegetação nativa da forma que tem que ter, enfim. E aí tem uma série de regras ali de acordo com o
+11:1611 minutos e 16 segundosCódigo Florestal, que eu recomendo que vocês deem uma olhada também se isso for relevante para o a solução que vocês vão desenvolver.
+11:2711 minutos e 27 segundosO CAR abre desdobramento para questões como compensação ambiental no caso do déficit déficit e também em caso
+11:3411 minutos e 34 segundosdecedente como hoje. Como hoje é vista essa questão dos serviços ambientais e cotas ambientais.
+11:4211 minutos e 42 segundosBom, o Código Florestal prevê algumas eh algumas possibilidades de tanto de
+11:4911 minutos e 49 segundoscompensação, né, tanto de você compensar o seu déficit, quanto de você oferecer o seu excedente paraa compensação de
+11:5611 minutos e 56 segundosoutras de outros imóveis. Então, isso já é feito eh pelo sistema, né? Já o proprietário já pode fazer isso. Então,
+12:0412 minutos e 4 segundosvou dar um exemplo, né? às vezes um proprietário que tem uma área na na no imóvel dele totalmente consolidada e aí
+12:1112 minutos e 11 segundosele compra outro imóvel que tem uma área totalmente de vegetação nativa e aí ele compensa ali, né, o a o déficit que ele
+12:1812 minutos e 18 segundostem. Tô dando um exemplo aqui bem eh aleatório, tá? Mas só para vocês entenderem que isso já é feito hoje e é informado no sistema. Eu estou
+12:2612 minutos e 26 segundoscompensando minha reserva legal na fazenda tal que tem tal número do carro, sabe? Isso já é feito hoje. E além disso
+12:3412 minutos e 34 segundostem eh mecanismos como das cotas de reserva ambiental, a CRA, até apareceu a CRA na última pergunta também. Então já
+12:4112 minutos e 41 segundosfalando um pouco sobre o que que é a CRA, né? cota de reserva ambiental, que é uma cota equivalente a 1 ha de
+12:4812 minutos e 48 segundosexcedente de floresta que a pessoa tenha no seu imóvel e que pode ser transacionada eh tanto entre imóveis quanto com o
+12:5512 minutos e 55 segundosmercado. Então, um produtor que tenha um excedente, né, pode eh e aí é um ativo que ele tem dentro da propriedade dele,
+13:0413 minutos e 4 segundosele pode oferecer essa CRA no mercado, disponibilizar essa CRA no mercado para ser comercializada como um título, né? E
+13:1313 minutos e 13 segundosaí a gente lançou, o Serviço Florestal Brasileiro lançou o ano passado eh o módulo da CRA, né? Lançaram as primeiras
+13:2213 minutos e 22 segundosCRAS que foram emitidas. Eh, então assim, tá ainda é uma uma política que tá avançando aos poucos, mas em breve vai est disponível para todos.
+13:3313 minutos e 33 segundosExiste disponível um DB do FACO Car que entender os problemas, soluções de problemas, gargalos e tempo de resolução que os usuários levantam pro time?
+13:4413 minutos e 44 segundosA gente colocou um pouco no material, né, Ana, eh, no briefing dos desafios.
+13:4813 minutos e 48 segundosNo briefing dos desafios. Então, acho que esse é um lugar importante para vocês consultarem.
+13:5713 minutos e 57 segundosTer o código funcional no MVP trará vantagem diferencial quando comparado aos que são só protótipos interativos, não funcionais?
+14:0414 minutos e 4 segundosNão. Os critérios eles estão bem definidos no edital, tá? Então o que vai ser analisado é o que está no edital.
+14:0914 minutos e 9 segundosEntão eles vão podem até ter acesso ali, mas ninguém vai analisar código, tá gente? Não teremos mentores analisando código, mas tem gente que fala: "Ah, mas
+14:1714 minutos e 17 segundosé mais fácil para poder rodar aqui, mostrar como funciona, eu vou fazer o código". Tudo bem, não tem problema. Pode fazer.
+14:2314 minutos e 23 segundosSe fizer um chatbot que usa LLM, precisa ser LLM gratuita?
+14:3014 minutos e 30 segundosEh, pergunta difícil, [risadas] pergunta técnica. A gente responde depois, então, com os com o time técnico
+14:3814 minutos e 38 segundospara o pessoal da data prévia, a gente responde lá. Pode ser?
+14:4114 minutos e 41 segundosPode ser. Comenta sua equipe aí que a gente depois te responde ali. Eh, no desafio dois, é necessário resolver o problema dos mapas desotalizados ou como o proprietário mantém o uso da terra?
+14:5214 minutos e 52 segundosatualizado. Não, não é sobre o proprietário, gente.
+14:5714 minutos e 57 segundosEsse desafio dois, ele é sobre os mapas usados pelos analistas ambientais, né, pelo órgão ambiental para confrontar a declaração dos proprietários. Então,
+15:0515 minutos e 5 segundosesse é o que é o gargalo que a gente enfrenta hoje. Todos os estados têm o mesmo gargalo que é a lenta e muito cara
+15:1315 minutos e 13 segundosprodução de mapas de referência para serem usados como gabarito para confrontar com as declarações do carro, tá bom?
+15:2415 minutos e 24 segundosUsar os geotifs do mapa biomas baixados diretamente da AWS sem acessar a plataforma API deles é
+15:3215 minutos e 32 segundospermitido como fonte de dados ou qualquer uso do mapa biomas não é indicado?
+15:3815 minutos e 38 segundosNão é permitido, gente. Eh, como uso de dados no geral, eh, qualquer dado, né, que vocês eh queiram utilizar é
+15:4515 minutos e 45 segundospermitido, tá? Eh, inclusive, por exemplo, para fazer as bases de referência, a gente a gente, né, os
+15:5315 minutos e 53 segundosestados quando contratam e eles precisam ter disponíveis imagens e geralmente são imagens de autor resolução, são imagens
+16:0116 minutos e 1 segundopagas, as imagens são um insumo que inevitavelmente, né, a maioria das vezes é pago. Eh, aliás, a gente também usa
+16:0916 minutos e 9 segundosimagens Sentinel, por exemplo, que são gratuitas, mas nem sempre elas têm a resolução necessária, dependendo da feição que tem que ser feita. Então, eh,
+16:1816 minutos e 18 segundosos dados vocês podem usar da fonte que vocês tiverem disponível, podem usar do Map Bom, mas as fontes, a, os dados, né, não tem problema nenhum. Eh, o que que a
+16:2716 minutos e 27 segundosgente não quer que a solução seja baseado nisso, entendeu? Que a solução seja baseado nisso. Então, vamos dizer assim, a minha solução é um aplicativo
+16:3516 minutos e 35 segundosque eu ligo no Google Earth Engine para fazer alguma coisa, né? A minha solução depende de funções do Google Earth
+16:4316 minutos e 43 segundosEngine. Então isso é que a gente eh não quer, né, que que seja feito, porque vai depender de uma licença do Google Engine
+16:5116 minutos e 51 segundospara poder rodar, né? Então esse é o problema.
+16:5616 minutos e 56 segundosA solução pode utilizar os dados específicos do imóvel para contextualizar automaticamente as orientações ao produtor de acordo com os dados ou o foco é apenas simplificar a linguagem da legislação?
+17:0617 minutos e 6 segundosPode pode usar sem problemas. Parece uma boa ideia.
+17:1217 minutos e 12 segundosDevemos seguir exclusivamente as bases de sistemas sugeridos no edital ou podemos propor a integração de outras bases públicas e oficiais que complemente a solução? A G acabou de responder sobre isso. Uhum.
+17:2217 minutos e 22 segundosPodem usar à vontade. Como faz com relação imóveis? Gente, é muito termo técnico, então se eu falar errado, vocês me desculpem aqui, gente. Eh, como faz
+17:3117 minutos e 31 segundoscom relação a imóveis que sobre os que cobrem, talvez o Zé aqui no Pará, algumas áreas mudam uma porcentagem de
+17:3717 minutos e 37 segundosreserva legal. para 50% de RL pros imóveis acima de 4 M. É, se quando o
+17:4517 minutos e 45 segundosestado tem o ZE, o Z é o zoneamento ecológico econômico, Ana. Eh, então ele fala, né, assim, olha, ele ele dá uma
+17:5217 minutos e 52 segundosorganização, né, eh, ambiental eh pro estado, pro território do estado. Então, os estados da Amazônia legal, eles têm
+18:0118 minutos e 1 segundocondições diferentes, né, eh, para paraa área de reserva legal, dependendo se tem ZE ou não. O Código Florestal
+18:0918 minutos e 9 segundosestabelece, gente, quais são essas condições, né, e, e como o Zé é tratado nesses casos. Então, é claro que se se vocês estão fazendo um trabalho, né,
+18:1718 minutos e 17 segundossobre o pará ou querem usar o pará como exemplo e tem o Zé e ele vai afetar a solução, não tem nenhum problema usar.
+18:2518 minutos e 25 segundosÉ, acho que até tem mais uma dúvida aqui em relação a parar também que tem CPA, onde o usuário pode adquirir uma cota eh já referenciado dentro de uma unidade de
+18:3318 minutos e 33 segundosconservação estadual de proteção integral, compensar um passivo DRL.
+18:3718 minutos e 37 segundosIsso é uma previsão do Código Florestal, né, que para eh então já tá implementando.
+18:4318 minutos e 43 segundosMaravilha. Vocês avaliaram usar drone pontualmente para revalidar imóveis de contestação em vez de atualizar toda a base via satélite anualmente. Qual seria o critério aí de gatilho?
+18:5418 minutos e 54 segundosEh, existem casos, Guilherme, que em que o estado, né, o órgão estadual de meio ambiente pode precisar ir a campo para
+19:0219 minutos e 2 segundostirar alguma dúvida, né? Então, às vezes eles fazem a imagem, eh, fazem o o diagnóstico, a avaliação via imagem de satélite, ficam com dúvida. às vezes
+19:1019 minutos e 10 segundoseles não têm imagem disponível daquela área. Teve uma contestação que exige que eles vão a campo. Quando isso acontece e
+19:1619 minutos e 16 segundoso estado opta por ir a campo, né? Eh, eles podem utilizar o drone, com certeza. Agora, quando a gente pensa,
+19:2419 minutos e 24 segundosné, nos 8 milhões de móveis, né, cada estado aí tem algumas centenas de milhares de móveis para analisar, geralmente a área grande demais para ser
+19:3219 minutos e 32 segundosimage com drone. Então, por isso que não é feito em escala, né? Mas eh com certeza eles podem usar isso em áreas de
+19:4019 minutos e 40 segundosdúvida, em áreas eh em que precisa por algum motivo, sabe? Então não é uma solução sistêmica que a gente tem
+19:4719 minutos e 47 segundosdisponível no SICAR nem nada, mas eh a gente sabe que os estados usam principalmente nesses casos em que eles vão a campo. Maravilha, gente. Quem tá
+19:5619 minutos e 56 segundoschegando agora aí live exclusiva de tira dúvidas sobre os desafios. Então mandem suas perguntas aí que a gente tá fazendo esse bate-bola com a Giovana. Pergunta
+20:0320 minutos e 3 segundosda Cecília, por que que a base de uso de solo demora tanto para atualizar?
+20:0920 minutos e 9 segundosCecília, é um trabalho que ainda do jeito que ele é normalmente feito e contratado, ele é semiautomático, né?
+20:1620 minutos e 16 segundosEntão ele é feito geralmente eh com uso, né, de de algoritmos próprios para isso
+20:2220 minutos e 22 segundosinicialmente e depois ele é refinado eh com uma supervisão humana, né? E e esse
+20:3120 minutos e 31 segundostempo varia muito assim, sabe? a gente vê contratos assim, por exemplo, para estados menores, né, de atualização em 4 meses. Aí o que acontece geralmente é
+20:4120 minutos e 41 segundosatualização em 4 meses, volta pro estado, eh, pro estado ver se realmente tá bom o mapeamento, se tá adequado, se eles estão vendo erros, se precisa
+20:4920 minutos e 49 segundosrefinar alguma área. Aí volta pra empresa, a empresa, né, refina ali o essas áreas, refina o que tem que ser
+20:5720 minutos e 57 segundosfeito, aí volta pro estado. Então tem também essa etapa, sabe, de idas e vindas e e é por isso que acaba demorando, sabe? A gente falou aí de
+21:0421 minutos e 4 segundosdois anos porque tem o tempo também que a gente tem que considerar da administração de contratar as coisas, né? Então, eh às vezes tem o tempo do
+21:1321 minutos e 13 segundosestado lançar um edital, fazer a licitação, contratar, né? Aí a empresa começar a trabalhar. Aí tudo isso é
+21:2021 minutos e 20 segundosfeito tecnicamente a parte mesmo da atualização ali em alguns meses e aí depois volta para essa parte de aprovações. Então o que a gente vê hoje
+21:2921 minutos e 29 segundosé que os estados às vezes têm dificuldade de eh de atualizar anualmente as suas bases, tá
+21:3821 minutos e 38 segundosperfeito. A a Cecília também trouxe mais uma pergunta. O car possui a mesma estrutura de colunas pro Brasil inteiro ou tem estados que a estrutura ela é diferente?
+21:4621 minutos e 46 segundosNo banco de dados do CAR, eh, o banco que vale assim, né? O banco que é o central e que que integra as informações
+21:5421 minutos e 54 segundosde todos os estados, é uma estrutura só de banco de dados. E aí os estados que usam seus próprios sistemas, eles têm que integrar as informações de acordo
+22:0322 minutos e 3 segundoscom o manual que é disponibilizado para eles, né? Seguindo ali parâmetros específicos. Então, ainda que nos nos sistemas deles tenham um esquema de
+22:1222 minutos e 12 segundosbanco de dados diferente, ele vai integrar as informações eh via API pro pro SICAR, no formato que o SICAR
+22:2022 minutos e 20 segundosprecisa para armazenar no seu próprio banco, eh, com a sua estrutura.
+22:2522 minutos e 25 segundosMaravilha, gente. Tem perguntas aqui relacionadas eh a uso de dados, né? Tudo que é dado público vocês podem utilizar assim, sem problema, para poder
+22:3322 minutos e 33 segundosjustificar ali a solução de vocês e dar mais embasamento. Então tem várias pontas sendo citadas, tá público dado, pode ser usado sem problema.
+22:4322 minutos e 43 segundosAh, a gente já respondeu essa de além da procentagem da RL, que outras regras realmente variam por estado e faz
+22:5022 minutos e 50 segundossentido pensar em uma solução que suporte essa variação.
+22:5422 minutos e 54 segundosUhum. Eh, gente, eh, de modo geral, assim, todos os estados têm que cumprir o Código Florestal, é o mínimo, né, da
+23:0223 minutos e 2 segundosregra que eles têm que cumprir. Tem estados que t alguma regra um pouquinho mais restritiva, né? É permitido na legislação ambiental que os estados
+23:1023 minutos e 10 segundosimplementem regras mais restritivas à regra federal. Então, por exemplo, eh, nos estados do Nordeste, por exemplo, a
+23:1823 minutos e 18 segundosmaioria deles eh a reserva legal é de 20%. Mas a gente sabe que o Piauí tem uma uma norma estadual que para algumas
+23:2723 minutos e 27 segundosáreas eles aumentaram a reserva legal para 30%.
+23:3223 minutos e 32 segundosE aí então ali no Piauí tem essa regra específica, entende? Mas assim, todos os estados têm que cumprir no mínimo o que tá no Código Florestal. Então eu
+23:4023 minutos e 40 segundosaconselho que vocês se guiem pelo Código Florestal de forma geral e porque até pelo tempo, né, que vocês têm
+23:4823 minutos e 48 segundosagora, eh, para quem não é da área ou não conhece e vá pesquisar, né, cada regra específica dos 27 estados, vai ser
+23:5723 minutos e 57 segundosum trabalho, vai dar um tempo, vai dar levar um tempo, né, que não sei se vocês vão ter. Então, sugiro que vocês façam
+24:0324 minutos e 3 segundospensando eh no nas regras do Código Florestal mesmo, né? E e vejam até ali o que que tem de diferença, que é esse
+24:1224 minutos e 12 segundoscaso do ZE, por exemplo, que serve para todos os estados da Amazônia. Legal.
+24:1824 minutos e 18 segundosHá reclamações de deslocamento dos mapas ao longo dos anos? Já houve, Sérgio. Já vi isso acontecer.
+24:2624 minutos e 26 segundosEh, a a todas as que eu já vi foram resolvidas até agora, tá? Mas pode acontecer sim. Então, é com certeza uma
+24:3524 minutos e 35 segundospreocupação que quem for trabalhar com os mapas tem que ter, né?
+24:4124 minutos e 41 segundosDos 2,5 anos que o processo leva hoje, onde fica o maior gargalo? Na classificação da imagem em si, na validação, correção
+24:4924 minutos e 49 segundoshumana ou na aprovação burocrática para entrar no SICAR?
+24:5624 minutos e 56 segundosdiria que o maior gargalo é mesmo técnico, é é em montar mesmo ali nesse nesse pedaço do do processo que inclui
+25:0525 minutos e 5 segundoseh a classificação automática e a revisão do dos dados, né, pelos técnicos contratados. geralmente tem equipes
+25:1325 minutos e 13 segundosenormes trabalhando nisso para deixar um mapa, né, redondo, para deixar o mapa com um índice de erro aceitável eh pelo estado, sabe?
+25:2725 minutos e 27 segundosPela regulação do caro aceite da retificação dinamizada precisa ser estritamente dentro do portal ou o produtor dando aceite para um canal de comunicação oficial externo tem validade?
+25:3725 minutos e 37 segundosNão tem. Ele tem que realmente entrar no sicar e apertar o botão no SICAR. sabe?
+25:4225 minutos e 42 segundosEle pode ser notificado de que isso existe por fora, né? Eh, enfim, soluções que ajudem ele a saber o que tá
+25:5025 minutos e 50 segundosacontecendo e tudo fazem sentido, mas para realmente o sistema entender que ele aceitou a retificação, ele tem que entrar e fazer, tá?
+26:0126 minutos e 1 segundoAté o Lucas trouxe mais uma aqui, que na prática o agricultor hoje ele depende de técnicos para entender as exigências da lei. Então, uma solução que dê autonomia
+26:0926 minutos e 9 segundospara ele próprio entender e agir sobre o car teria grande impacto.
+26:1326 minutos e 13 segundosTeria muito grande impacto. E esse é o desafio, né? Esse é o desafio. Aliás, é meio que um e o três ali, as duas coisas, talvez até mais o três, pensando
+26:2126 minutos e 21 segundosbem, eh uma solução que dê para ele a autonomia de entender, de sentir segurança, sabe? A gente vê nos relatos
+26:2826 minutos e 28 segundosdas pessoas que elas têm medo às vezes de interagir com o seu cara e de fazer alguma coisa e e serem, né, fazerem uma coisa errada e serem punidas por isso.
+26:4026 minutos e 40 segundosEh, e a gente quer muito que elas não tenham medo, porque o sistema tá desenhado de uma forma que que explica, né, para ela, ou pelo menos
+26:4926 minutos e 49 segundosessa é a nossa intenção. também podem ser encontradas formas de deixar isso mais claro, mas eh que explique o que tem que ser feito. Mas você tá certo,
+26:5726 minutos e 57 segundosisso acontece muito, né, do proprietário eh acabar contratando um técnico por não entender o que que tem que ser feito, por ter medo de fazer o que tem que ser
+27:0627 minutos e 6 segundosfeito. Então, soluções que deem essa autonomia, que nos ajudem a trazer segurança pro proprietário, são muito
+27:1227 minutos e 12 segundosbem-vindas. Com certeza tem uma persona que quer adicionar a minha solução pro desafio dois, que é
+27:2027 minutos e 20 segundosautoridades judiciárias, Ministério Público, Polícia Federal e Sociedade Civil, Jornalistas. Posso incluir jornadas de transparência?
+27:3027 minutos e 30 segundosEh, não vejo por não. Ana, você tem algum comentário sobre isso? Sobre as personas? Não, não, não tem nenhum problema.
+27:4027 minutos e 40 segundosA dúvida aqui sobre mentoria, né? Caso não tenha nenhum mentor disponível, como finaliza a ideiação? Gente, a ideação não é para hoje. Vocês têm até domingo, 11:59 da noite para entregar a ideação.
+27:4927 minutos e 49 segundosEntão, a gente tem mais de 200 equipes dentro do Discord. Então, os mentores estão ali a todo vapor atendendo, né, o pessoal. Então, a mentoria pode demorar um pouquinho, mas não precisa ser hoje.
+27:5927 minutos e 59 segundosVocês podem fazer essa mentoria amanhã, domingo, sem problema, tá? A gente não quer velocidade nas entregas, a gente quer qualidade. Então, se entregar antes
+28:0628 minutos e 6 segundosnão vai ter ponto a mais nada disso. As entregas são para domingo. Então, fiquem tranquilos. E as orientações de como pedir mentoria, que já tem perguntas
+28:1428 minutos e 14 segundossobre isso, tá lá dentro do Discord, tá pessoal? Então, fale com a nossa equipe lá dentro, beleza? Então, aqui já
+28:2128 minutos e 21 segundosrespondendo também. João, fala com a nossa equipe dentro do Discord. Lucas, sobre as regras de comunicação, o governo pode enviar alertas
+28:2928 minutos e 29 segundossimplificados das dependências da lei direto no salar do dono ou a regra exige que ele entre no sistema para ler os ofícios?
+28:3828 minutos e 38 segundosEh, pode pode enviar sim, não tem nenhum impedimento para que as notificações cheguem de outras formas, né, pro produtor.
+28:4928 minutos e 49 segundosO nosso protótipo deve terminar entregando o arquivo final pro produtor subir no portal ou precisa injetar os dados direto no banco de vocês?
+28:5928 minutos e 59 segundosHã, acho que você tá deve tá falando do desafio dois, né? Eh, se for sobre o
+29:0529 minutos e 5 segundosdesafio dois, eh, Simon, eh, a ideia é fazer mapas para serem colocadas no nosso sistema mesmo, né?
+29:1629 minutos e 16 segundosMas, eh, não sei, às vezes você pode assim o que a gente a pergunta ali, eu acho que vale
+29:2429 minutos e 24 segundosreler o desafio, né? Eu não tenho ele aqui de cabeça agora, mas eu acho que o que a gente fala lá é como possibilitar que as bases de referência, né, usadas
+29:3229 minutos e 32 segundospara para correção do K sejam atualizadas com mais frequência, né?
+29:3729 minutos e 37 segundosEntão, às vezes a sua solução inclui eh desde a declaração até a análise de
+29:4429 minutos e 44 segundosalguma forma, né? Eh, olha, eu prevejo que essa solução aqui vai ajudar já o produtor a fazer o mapa dele e aí já
+29:5129 minutos e 51 segundosserve também para análise. Não sei, tô aqui imaginando. Eu acho que o céu é o limite aí na criatividade de vocês, mas
+29:5929 minutos e 59 segundosreleiam o desafio. Acho que esse que é o o ponto, sabe? Releiam o desafio e o texto do desafio, não só o título, mas o texto com que a gente explica o que que
+30:0730 minutos e 7 segundosé que tá sendo pedido lá. Eu acho que vale fazer isso. Exatamente. O contexto, né? A necessidade, gente, a necessidade.
+30:1630 minutos e 16 segundosEssa já foi. Então, vamos lá. Poderia explicar mais sobre os parâmetros técnicos de erro aceitáveis pelo estado,
+30:2430 minutos e 24 segundoscompliance internacional tem relação com a Cordo Mercosul, União Europeia, portanto, vinculada ao seu prazo?
+30:3130 minutos e 31 segundosH, gente, isso é definido eh pelo estado que faz a contratação do mapeamento, né?
+30:3730 minutos e 37 segundosEntão, geralmente eles vão ali definir um um capa, né, que é o uma métrica de erro para mapeamentos máximo. Eh, a
+30:4730 minutos e 47 segundosgente vê aí 85, 90, 95%, dependendo do estado e do que eles esperam. Eh, e aí
+30:5530 minutos e 55 segundostem, né, as boas práticas também de mapeamento que devem ser seguidas, mas geralmente o que os estados vão ver é se realmente a realidade que eles conhecem
+31:0331 minutos e 3 segundosdo território tá sendo bem retratada ali nos mapas, né? Então, por exemplo, hidrografia, né, é um tipo de mapa muito
+31:1131 minutos e 11 segundosdifícil de atualizar porque eh pode ser usado a drenagem, mas pode ser usado também a imagem. E aí às vezes você eh
+31:1931 minutos e 19 segundosfaz drenagem do que existe no território, às vezes faz menos, às vezes pega canais de drenagem artificiais como se fossem drenagem eh natural. Então,
+31:2931 minutos e 29 segundoseh, sabe, todo tipo de erro é avaliado no nos mapeamentos, mas geralmente as métricas usadas nas contratações são
+31:3631 minutos e 36 segundosmesmo essas de erro máximo eh aceito.
+31:4431 minutos e 44 segundosHoje as notificações só estão então dentro do sistema e consulta dos técnicos. Isso.
+31:4931 minutos e 49 segundosHoje as notificações estão dentro da central do proprietário possuidor, que vai para os proprietários possuidores do imóvel e para os seus responsáveis
+31:5731 minutos e 57 segundoslegais e técnicos que estiverem cadastrados no carro. Eh, e vai também por e-mail, não a própria notificação,
+32:0632 minutos e 6 segundosmas vai avisando que você tem uma notificação no cadastro ambiental rural. Eh, vá até a central para visualizar.
+32:1432 minutos e 14 segundosIsso é o que a gente tem hoje de solução desenvolvida.
+32:1832 minutos e 18 segundosExistem soluções ao pensar-se que quero trazer, porém são produzidas com dinheiro da União Europeia e há alguma restrição de soberania para soluções digitais desse rabon?
+32:2732 minutos e 27 segundosNão, não. A gente não colocou nenhuma restrição desse tipo. Basta ter código aberto mesmo.
+32:3332 minutos e 33 segundosFaz sentido tratarmos a RL como estimativa que a OEMA confirma e travar como número duro sua sobreposição? Isso é defensável?
+32:4332 minutos e 43 segundosDeixa eu ver que a confirma. Acho que não. Eh, eu não sei se eu entendi muito bem, mas eh não, assim, a reserva legal
+32:5032 minutos e 50 segundosnão é uma não é um parâmetro variável de acordo com a análise técnica, ela é definida na legislação. Então
+32:5932 minutos e 59 segundosé o que que a OEMA vai confirmar, né, e que inclusive diz no Código Florestal, ela tem que aprovar a localização da reserva legal.
+33:0633 minutos e 6 segundosEntão, não é a área, mas é a localização. Então, não tem que se falar de estimativa, né, no caso. Mas então
+33:1533 minutos e 15 segundosassim, a pessoa vai declarar onde ela quer que seja a reserva legal e a OEMA vai analisar se ela eh cadastrou a área
+33:2433 minutos e 24 segundossuficiente de reserva legal, conforme a legislação no seu imóvel, e se a localização daquela reserva legal está adequada.
+33:3233 minutos e 32 segundosE eh em seguida vão ser feitos os cálculos com base na cobertura e uso do solo para ver se existe passivo de recuperação na reserva legal.
+33:4333 minutos e 43 segundosQual o custo médio estimado de uma análise de car hoje? Tanto a semiautomática por analista quanto a automatizada em lote?
+33:5133 minutos e 51 segundosNão tenho esse dado, gente, não tenho.
+33:5333 minutos e 53 segundosVaria muito de estado para estado, de como eles fazem. Eh, tem estados que contratam eh empresas para apoiarem, né,
+34:0134 minutos e 1 segundonessa análise. Eh, tem estados que têm realmente só analistas próprios, eh, analistas ambientais concursados, né,
+34:0934 minutos e 9 segundospróprios do próprio órgão. Então, o custo varia muito, assim, eu, infelizmente, não tenho essa informação.
+34:1734 minutos e 17 segundosAqui, dúvida, né? Podemos integrar ferramentas gratuitas com módulo?
+34:2134 minutos e 21 segundosSim, em teoria, né? Estamos falando de protótipos, mas sim, em teoria, sim.
+34:2834 minutos e 28 segundosEh, pergunta aqui, qual é o erro mais comum que vocês vêm as equipes cometerem na reta final ou na hora do pit? Gente, aqui, ó, é muito no processo deção.
+34:3834 minutos e 38 segundosVocês têm que ter total conhecimento sobre o desafio que vocês estão querendo resolver. Então, às vezes vocês estão pensando, ah, eu quero desenvolver essa ideia, mas vocês não tão vendo nem se essa ideia tá respondendo ao desafio.
+34:4734 minutos e 47 segundosEntão é muito importante que vocês entendam a dor qual é o gargalo hoje.
+34:5134 minutos e 51 segundosEntão acho que esse é o principal erro, digamos assim, eh de vocês estarem desenvolvendo uma solução, é não estar alinhado com o desafio, tá? Então vocês
+34:5934 minutos e 59 segundostêm que fazer essa proposta para resolver um gargalo, um problema ou uma oportunidade que vocês enxergam ali.
+35:0635 minutos e 6 segundosEntão mergulhem nos desafios. Essa é a dica que a gente traz aí para vocês. Gi, o produtor trava na retificação por não
+35:1335 minutos e 13 segundosconseguir visualizar o erro lendo o texto técnico, mostrar a ele uma imagem clara do antes e depois do mapa facilitaria o aceite?
+35:2135 minutos e 21 segundosEu acho que essa é uma essa é uma hipótese, Lucas. Eh, é com certeza é algo que pode acontecer, né, que é um
+35:2835 minutos e 28 segundosdos motivos pelo qual ele ele trava. Eh, existem vários outros também possíveis, né? ele pode simplesmente não concordar
+35:3535 minutos e 35 segundoscom a análise que foi feita, ter medo de aceitar a retificação ou de fazer a retificação. Eh, às vezes ele já
+35:4235 minutos e 42 segundosentendeu ali que se, né, fazendo a retificação, ele ele pode ter um déficit ou ele tem medo que que tenha um
+35:4835 minutos e 48 segundosdéficit. Eh, o mais comum de tudo é ele não ver que tem que retificar. Eu acho que isso
+35:5635 minutos e 56 segundosassim, com certeza é um motivo no topo da lista, é que o produtor não sabe que tem que retificar ou assim lê às vezes
+36:0436 minutos e 4 segundosaquela notificação, ó, você tem que retificar seu carro, não sabe como faz, deixa para depois, não entende? Então, com certeza esse é um dos principais
+36:1236 minutos e 12 segundosmotivos. Hã, sim. Mostrar uma imagem clara do antes e depois facilitaria o aceite. Com certeza.
+36:2136 minutos e 21 segundosA solução pode ser voltada paraa fase de monitoramento do PRA, quando o produtor está recuperando alguma área degradada.
+36:2836 minutos e 28 segundosPode também. Essa é outra é outra fase ali, né, prevista na política de regularização ambiental e que muitos
+36:3636 minutos e 36 segundosprodutores vão ter que passar e e vão ter que saber como fazer, né, como implementar isso. Então também é uma é
+36:4436 minutos e 44 segundosalgo que eu acho muito aderente ali no desafio três, principalmente.
+36:5036 minutos e 50 segundosMuito nunca se bem, Ana assim, não mas assim, qual que encaixa melhor? Eu acho que depende muito da solução, sabe? que vocês vão desenvolver.
+37:0037 minutosSe gerasse escola de confiança para cada car baseado em aderência às bases de referência, MGI consideraria usar isso como critério de priorização na fila de
+37:0837 minutos e 8 segundosanálise? Escore alto seria igual a validação simplificada.
+37:1337 minutos e 13 segundosH, é, é uma ideia, acho que é uma ideia ser estudada e proposta por vocês. Sim.
+37:2037 minutos e 20 segundosQuanto tempo em média um analista do órgão estadual leva para avançar um car na fila?
+37:2637 minutos e 26 segundosEntão isso depende muito do contexto do car, né? Eu falei um pouco sobre isso de manhã, mas ou na hora do almoço, na
+37:3237 minutos e 32 segundosverdade, eh hoje em dia o que a gente tem visto é uma tendência cada vez maior pros órgãos ambientais de meio ambiente passarem eh os imóveis na análise automatizada.
+37:4437 minutos e 44 segundosEh, mas existem casos mais complexos e aí varia muito da análise deles, o porquê, eh, em que eles preferem fazer
+37:5337 minutos e 53 segundosuma análise eh não automática, né, uma análise semiautomática ali, a gente chama de análise de equipe. Então, é uma análise
+38:0138 minutos e 1 segundoque depende mesmo do analista olhar cada detalhe, né, e e fazer os cliques e tudo. Então, eu já ouvi eh estados
+38:0938 minutos e 9 segundosfalando de algumas horas para fazer uma uma análise manual assim, né, o semiautomatizada,
+38:1738 minutos e 17 segundoseh duas 3 horas até às vezes um dia inteiro para um caso muito complexo, que exige consulta de muitas bases, consulta de muitas imagens por fora do sistema,
+38:2538 minutos e 25 segundosetc. Varia bastante. Gente, existe alguma restrição ao uso de inteligência artificial generativa para interpretação e tradução da legislação?
+38:3438 minutos e 34 segundosDesde que a resposta seja baseada exclusivamente em normas oficiais? Não, nenhuma restrição.
+38:4238 minutos e 42 segundosO módulo pré-preenchido hoje cruza cinco bases cadastrais. A planos de incluir geometria automatizada via satélite em versões futuras?
+38:5038 minutos e 50 segundosSim, assim, gente, hoje a gente já traz a geometria do CGF, eu vi que você colocou aí na pergunta, né? eh pro
+38:5738 minutos e 57 segundospreenchimento. Então, eh eu não sei se vocês vão conseguir fazer essa simulação, mas talvez no vídeo eh vai dar para ver que a gente já mostra pro
+39:0539 minutos e 5 segundosprodutor onde tá o dele se ele tiver, mas não existe hoje ainda uma ferramenta para sugerir automaticamente o limite,
+39:1339 minutos e 13 segundosné? Isso a gente ainda não tem. E aí tem a solução que a gente tá em desenvolvimento, eh, eu acho importante vocês saberem, né, que é para utilizar
+39:2239 minutos e 22 segundosas bases de referência para pré-preencher o mapa e oferecer uma declaração pré-preenchida pro usuário
+39:2939 minutos e 29 segundosque ele obviamente vai poder alterar, mas que já dá um norte de o que que é que o governo já sabe, né, da minha
+39:3839 minutos e 38 segundospropriedade, assim. Então, a gente vai ter isso. Nos módulos de cadastro, tem as imagens de satélite pro proprietário
+39:4539 minutos e 45 segundosusar como base, né, para fazer sua vetorização.
+39:4939 minutos e 49 segundosMas a nossa nossa próxima entrega do módulo de cadastro pré-preenchido vai ser o preenchimento automático dessas feições ambientais.
+40:0040 minutosOutra pergunta do filho também, a retificação, ela já corrige pós-cadastro? Existe barreira para aplicar essa lógica antes? gerar geometria e pedir só confirmação do produtor.
+40:1040 minutos e 10 segundosEh, não existe barreira. É isso que a gente vai fazer mesmo no cadastro pré-preenchido, né? Eh, na próxima entrega dele. Eh,
+40:1940 minutos e 19 segundose é isso. Eh, você interpretou, certo? A reticação dinamizada já faz isso, né?
+40:2340 minutos e 23 segundosela já propõe um preenchimento correto com base na base de referência pro proprietário e a gente vai eh
+40:3140 minutos e 31 segundosimplementar essa lógica antes eh, né, de de já trazer a geometria com base na base de referência pro produtor. E é por isso, gente, que as bases de referências
+40:4040 minutos e 40 segundossão tão importantes, porque elas permitem não só o analista, né, analisar o que que foi declarado, cruzar como uma
+40:4740 minutos e 47 segundosum gabarito, mas em breve elas vão propiciar também ajudar o proprietário a preencher seu cadastro.
+40:5840 minutos e 58 segundosReta final, hein, gente, de perguntas.
+41:0041 minutosSe você tivesse uma base de uso e cobertura do solo atualizada anualmente para todos os estados, o que mudaria concretamente no trabalho dos analistas que hoje não é possível ser feito?
+41:0941 minutos e 9 segundosMuito boa pergunta, Ivan. Eh, os analistas muitas vezes para áreas, principalmente mais sujeitas à pressão,
+41:1841 minutos e 18 segundosde desmatamento, para áreas eh que tiveram uma dinâmica de mudança de uso do solo mais acentuada, eh não se sentem
+41:2641 minutos e 26 segundosconfortáveis, né? Não não sentem insegurança ali técnica para usar uma base de referência que tá defasada.
+41:3341 minutos e 33 segundosEntão, às vezes você tem uma base de referência de dois anos atrás, né, no sistema. Mas você sabe que aquela área ali que você vai analisar nesse lote é
+41:4141 minutos e 41 segundosuma área que nos últimos dois anos mudou muito e aí você já não pode mais confiar naquela vegetação nativa, por exemplo,
+41:4941 minutos e 49 segundosque tava na base de referência de 2 anos atrás. Então o que que isso muda na prática? Muda que em vez de usar as soluções automatizadas para fazer a
+41:5741 minutos e 57 segundosanálise do carro, os analistas vão acabar fazendo uma análise manual que demora muito mais, né? Eu falei aqui mais cedo que a gente às vezes consegue
+42:0642 minutos e 6 segundosfazer 20, 30.000 análises num dia, eh, num lote de análise dinamizada e às
+42:1442 minutos e 14 segundosvezes ele vai fazer ali seis análises por dia manualmente, sabe? Porque muitas vezes ele vai querer pegar, o técnico
+42:2142 minutos e 21 segundosvai sentir a necessidade de pegar a imagem de poucos meses atrás para confirmar se a cobertura de vegetação nativa é aquela mesma que ele tem na
+42:3042 minutos e 30 segundosbase, para confirmar se houve um alerta de desmatamento ali, né, ou um polígono de desmatamento do Prodes. É, então é
+42:3742 minutos e 37 segundosisso que muda na vida deles, é que a gente poderia ter uma automatização muito maior e mais ampla caso as bases
+42:4642 minutos e 46 segundosde referência fossem atualizadas com mais frequência e precisão.
+42:5142 minutos e 51 segundosMaravilha. Pergunta aqui da Jess no desafio três, como seria a entrega? Meu grupo provavelmente vai entregar as telas do nosso protótipo. É isso mesmo.
+43:0043 minutosVocês vão fazer ali a desenho de telas, frame, você pode ter fluxograma, enfim, mostre como seria. depende muito da solução de vocês, mas peçam mentoria,
+43:0843 minutos e 8 segundostá? Peçam mentoria ali, falem sobre o projeto que os mentores podem auxiliar.
+43:1143 minutos e 11 segundosPeça mentoria para mentor de negócios, de inovação, que eles conseguem auxiliar vocês como desenhar o protótipo da solução que vocês estão bolando.
+43:2043 minutos e 20 segundosPergunta aqui, ó, do DJ Simon. Após o Racaton, existe a intenção real de integrar a solução
+43:2743 minutos e 27 segundosvencedora a infraestrutura oficial do estado? Joguei a bomba para Giovana.
+43:3343 minutos e 33 segundosgente, existe existe totalmente a intenção, sabe? Eh, claro que a gente aqui tá falando de protótipos, né, Ana?
+43:4143 minutos e 41 segundosEntão, vão ser feitas análises, né? Eh, mas a gente vai primeiro premiar essa solução, né? que as soluções ali que que
+43:5043 minutos e 50 segundosatenderem melhor aos desafios, que forem as mais inovadoras, enfim, tem os critérios estabelecidos, mas a gente tá fazendo o desafio também para buscar
+43:5843 minutos e 58 segundosmesmo soluções na comunidade, né, para para trazer para dentro do carro, sabe?
+44:0444 minutos e 4 segundosE a gente tem muita esperança, sabe, gente, de que tendo um olhar de pessoas que trabalham com outras coisas, que tão, né, que trabalham com outras
+44:1244 minutos e 12 segundosferramentas, que já viveram outras experiências, eh, a gente vai ter soluções que fogem do que a gente seria
+44:2044 minutos e 20 segundoscapaz de fazer ali dentro do governo, né? Então, com certeza tem intenção.
+44:2644 minutos e 26 segundosA entrega do vídeo do protótipo pode ser editada por um aplicativo por fora ou tem que ser que nem a do PIT, apenas imagem e voz? Pode, tá? Protótipo é
+44:3344 minutos e 33 segundoslivre, vocês definem. O PIT é gravado com apresentação de slides, PDF e voz, tá gente? Mas o protótipo ele é livre.
+44:4244 minutos e 42 segundosO risco de perder o crédito rural é o que mais motiva hoje o produtor a agir.
+44:4644 minutos e 46 segundosVocê acha que usar a liberação de crédito como argumento claro na notificação faria ele retificar mais rápido?
+44:5744 minutos e 57 segundosÉ, com certeza é um é um drive importante o o a política de crédito rural, né, para manter o seu carro, para fazer o carro, para manter o car
+45:0545 minutos e 5 segundosatualizado. Eh, para além das obrigações legais que existem, né, gente? Também a gente tem que entender que o Código Florest traz obrigações legais mesmo
+45:1345 minutos e 13 segundospros produtores, mas eh o que faz no fim das contas, muitos deles agirem, como você fala aí, né, é precisar pegar o
+45:2245 minutos e 22 segundoscrédito, né? Com certeza. Agora, sobre usar esse argumento claro na notificação,
+45:3045 minutos e 30 segundoseh, acho que acredito que de uma forma hã
+45:3845 minutos e 38 segundosaderente ao que tá previsto na legislação, né? E e sempre tendo cuidado
+45:4445 minutos e 44 segundosde não gerar também, né, uma expectativa que pode não depender só disso, né, porque a concessão do crédito, ela
+45:5145 minutos e 51 segundosdepende de vários aspectos. Na verdade, a concessão do crédito, ela é um ato discricionário do banco, né? Então, o banco vai analisar multifatores ali.
+46:0046 minutosEssa é uma obrigação, claro, que que eles têm que cumprir e tá tudo disposto na resolução, né, do Conselho Monetário, mas eh
+46:1046 minutos e 10 segundosa gente tem que ter sempre cuidado com isso. Eu acho que vai ser legal vocês darem uma olhada no meu imóvel rural também, ver o que que ele traz ali para
+46:1646 minutos e 16 segundosver se se já tem algo do que vocês estão pensando em termos de solução também.
+46:2246 minutos e 22 segundosLembrando que meu imóvel rural tem um vídeo para vocês disponibilizado lá dentro do Discord na parte de materiais de apoio. Gente, estamos chegando aí na
+46:3146 minutos e 31 segundosreta final da nossa live, tá? Mais duas perguntinhas aqui que a gente vai puxar.
+46:3546 minutos e 35 segundosOutras dúvidas vocês puxam no Discord pra gente, tá? Então, se análise em lote e processa 20 30k por dia, por em 12
+46:4346 minutos e 43 segundosanos só 3,3% foram concluídos. O Gargalho é a qualidade do que entra ou o ciclo de ida e volta com o produtor?
+46:5146 minutos e 51 segundosEh, bom, primeiro que hoje a gente já tem um várias coisas, né, para comentar sobre isso, mas hoje a gente já tem um dado diferente. Hoje a gente já tem 10%
+47:0047 minutosda base de cadastros eh validados. Eh, eu recomendo que vocês deem uma olhada no painel do Serviço Florestal Brasileiro de Regularização Ambiental.
+47:0947 minutos e 9 segundosTem dados mais atualizados lá. E lá vocês vão conseguir ver também que o número de análises feitas de cadastros
+47:1747 minutos e 17 segundosque passaram por alguma análise é muito maior do que o número de cadastros validados. Isso por quê? Porque muitas vezes depende dessa volta do
+47:2647 minutos e 26 segundosproprietário possuidor. Então isso que você fala no final ali, né? o ciclo de ida e vinda com proprietário eh
+47:3147 minutos e 31 segundospossuidor, ele é muito relevante nesse, né, nessa nesse avanço para para as validações eh avançarem mais rápido.
+47:4247 minutos e 42 segundosAlém disso, esses números que eu tô trazendo aqui para vocês são números relativamente recentes, né? eh do último
+47:4947 minutos e 49 segundosano, mais ou menos, a gente conseguiu chegar nesses valores. Antes a as nossas ferramentas ainda não atingiam tanto,
+47:5647 minutos e 56 segundosentão foi feito muito investimento eh pelo governo eh federal no nas plataformas eh tecnológicas,
+48:0348 minutos e 3 segundosinfraestrutura e pra gente conseguir chegar nesse número que a gente tem hoje. a gente hoje vê estados avançando
+48:1248 minutos e 12 segundosmuito rapidamente e nessas análises, né, principalmente nas automatizadas, sabe? Então, a ideia é que isso vai mudar. Agora, a gente tem
+48:2048 minutos e 20 segundosestados, por exemplo, que já rodaram eh análise de toda a sua base na análise
+48:2748 minutos e 27 segundosdinamizada, mas que tão aguardando a resposta do produtor, né, eh para uma boa parte desses móveis analisados.
+48:3648 minutos e 36 segundosEntão esse é um gargalo muito importante.
+48:4048 minutos e 40 segundosE a última pergunta, quais são as limitações e o grau de poder decisório que uma solução tecnológica pode ter dentro do carro, considerando a governança pública e a necessidade de validação humana no processo?
+48:5348 minutos e 53 segundosHã, eu acho que eu não diria poder decisório, sabe, gente? Eu acho que eu falaria em um poder de auxiliar, né, a
+49:0249 minutos e 2 segundospolítica a ser implementada nos seus diferentes eh pontos ali no nos diferentes pontos do fluxo. Então,
+49:1149 minutos e 11 segundoseh as limitações são, por exemplo, acabei de falar uma, né? A gente tem ali uma análise dinamizada que já nos permite analisar milhares de cadastros
+49:1849 minutos e 18 segundospor dia, mas eu tenho um gargalo de interação com o proprietário, de fazer o proprietário aceitar essa análise ou interagir com ela, retificar seu
+49:2649 minutos e 26 segundoscadastro, que é uma limitação importante, né? Então, a gente sabe que a solução que as soluções tecnológicas elas não resolvem tudo, né? Eh, tem
+49:3549 minutos e 35 segundosmuito trabalho para ser feito de outras formas, mas a gente tá aqui buscando eh soluções que nos ajudem em alguns desses
+49:4249 minutos e 42 segundosgargalos. E por isso nem todas passam por dentro do sistema, né, Ana? A gente quando a gente fala deação, eh, de até
+49:5149 minutos e 51 segundosdifusão do conhecimento, né, sobre a legislação ambiental, eh não necessariamente vai passar por um sistema, mas a gente tá buscando soluções eh tecnológicas que nos apoiem nisso.
+50:0150 minutos e 1 segundoG, então, pra gente finalizar, diz aí pro pessoal o que que você, Geovana, gostaria ver de soluções aí que vão sair desse racart. O que que você acha assim
+50:1050 minutos e 10 segundosque hoje seria muito bacana, né, geral, tá? Não vai dar muito spoiler específico, mas no geral, o que que você espera ver das soluções?
+50:1950 minutos e 19 segundosAh, gente, a gente espera muito ver soluções de comunicação, ver soluções de ver soluções focadas no usuário, sabe?
+50:2650 minutos e 26 segundosQue vocês realmente consigam se colocar no lugar do usuário eh do do proprietário possuidor, né?
+50:3350 minutos e 33 segundosEspecialmente ali falando desafios 1 e três para para pensar, né? como é que ele vai entender isso, como é que eu vou conseguir fazer isso chegar nele, eh,
+50:4250 minutos e 42 segundosque vocês realmente leiam bem ali os desafios e entendam esses gargalos nossos, né, de colocou bastante material para vocês entenderem os desafios dos
+50:5050 minutos e 50 segundosestados também para para fazer as análises. Eh, e a gente tem muita esperança porque,
+50:5950 minutos e 59 segundoseh, o avanço tecnológico, né, aí nos últimos eh 5 anos, principalmente com a inteligência artificial, eu acho que foi
+51:0751 minutos e 7 segundosum salto tão grande que é pra gente incorporar isso no eh nos nossos sistemas, né, que já tem
+51:1651 minutos e 16 segundosvários anos que foram feitos, que a gente tem um ritmo ali muito específico eh de capacidade idade mesmo, né,
+51:2451 minutos e 24 segundosgovernamental de implementar as soluções. Eh, é difícil pra gente trazer isso assim e vocês, né, muitos de vocês
+51:3251 minutos e 32 segundosestão aí operando no limar da tecnologia, então a gente tem muita esperança de ver coisas muito inovadoras serem propostas mesmo.
+51:4151 minutos e 41 segundosMaravilha. Com essa fala, então, a gente encerra a live de tira dúvidas, pessoal.
+51:4551 minutos e 45 segundosContinue mandando suas perguntas ali no Discord que a equipe ainda vai responder ainda hoje, tá, pessoal? Lembrando que as mentorias gerais de feedback das
+51:5351 minutos e 53 segundossoluções de vocês, vocês podem pedir pros mentores que estão dentro do Discord até domingo, tá? Então não precisa a entrega de hoje, gente, é só o
+52:0152 minutos e 1 segundocadastro da equipe, tá? Todas as outras entregas e de ação protótipo pit é para domingo. Gi, muitíssimo obrigada pela
+52:0852 minutos e 8 segundossua ajuda. A gente continua ali no suporte, né, do pessoal nos bastidores.
